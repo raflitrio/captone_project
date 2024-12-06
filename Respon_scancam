@@ -101,7 +101,22 @@ ________________________________________________________________________________
                     "kategori": "pagi & malam"
                 }
             ]
+        #6
+            [
+                {
+                    "id": 6,
+                    "nama": "Daily Beginner Exfoliating Toner",
+                    "image": "https://storage.googleapis.com/scancam/Produkimg/pagi%20hari/toner/toner%20scintific.jpg",
+                    "detail": "Azarine daily beginner exfoliating toner merupakan produk eksfoliasi yang ringan dengan gabungan chemical exfoliator yang diformulasikan untuk pemula (mild exfoliating formula) dan pemakaian harian untuk menetralkan pH kulit serta meratakan tekstur kulit dan mencerahkan wajah dari bekas jerawat / flek hitam. Toner ini diformulasikan tanpa alcohol, oil, dan fragrance.",
+                    "kategori": "pagi & malam"
+                }
+            ]
     #POST
+        {
+            "message": "Toner berhasil ditambahkan",
+            "id": 6
+        }
+
     #PUT
     #DELETE
 
