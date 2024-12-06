@@ -52,15 +52,55 @@ ________________________________________________________________________________
         ]
     #GET BY CATEGORY ID
         #1
-            
+           [
+                {
+                    "id": 1,
+                    "nama": "Acnedot_Treatment_Toner_100ml",
+                    "image": "https://storage.googleapis.com/scancam/Produkimg/pagi%20hari/toner/Acnedot_Treatment_Toner_100ml.png",
+                    "detail": "Toner pH balance vegan untuk kulit berjerawat yang membantu memperkecil tampilan pori & menyeimbangkan minyak berlebih pada wajah. Dengan kandungan 5X Acne Combat Power & 91% Korean Green Tea Water untuk melawan bakteri penyebab jerawat sekaligus menenangkan kemerahan pada kulit berjerawat.",
+                    "kategori": "pagi & malam"
+                }
+            ] 
         #2
-            
+            [
+                {
+                    "id": 2,
+                    "nama": "Skin_Goals_Vita_Propolis_Glow_Essence_Toner_100ml_1",
+                    "image": "https://storage.googleapis.com/scancam/Produkimg/pagi%20hari/toner/Skin_Goals_Vita_Propolis_Glow_Essence_Toner_100ml_1.png",
+                    "detail": "Toner pH Balance dengan kandungan Vit C (EAA), Korean Propolis, New Zealand Manuka Honey, untuk menutrisi & mencerahkan kulit wajah dalam 28 hari*. Diperkaya dengan kandungan Pro-Vitamin B5 yang melembabkan & menjadikan kulit wajah tampak lebih sehat & glowing sepanjang hari.",
+                    "kategori": "pagi & malam"
+                }
+            ]
         #3
-            
+           [
+                {
+                    "id": 3,
+                    "nama": "CALM DOWN TONER",
+                    "image": "https://storage.googleapis.com/scancam/Produkimg/malam%20hari/toner/CALM_DOWN_PDP_TONER_100ML_POLOS.jpg",
+                    "detail": "Soothing Toner yang diformulasikan dengan Madagascar Centella Asiatica & Adaptogenic Cherimoya untuk menenangkan kulit kemerahan, sensitif, & teriritasi ringan. Dilengkapi 3% PHA yang efektif mengangkat kotoran serta sel kulit mati penyebab komedo & kulit kusam. Membantu menyamarkan bekas jerawat PIE, menghaluskan, sekaligus menghidrasi kulit. Cocok untuk kulit sensitif, berjerawat, kering, & mudah mengalami kemerahan.",
+                    "kategori": "pagi & malam"
+                }
+            ]   
         #4
-            
+            [
+                {
+                    "id": 4,
+                    "nama": "toner glowing",
+                    "image": "https://storage.googleapis.com/scancam/Produkimg/malam%20hari/toner/toner%20glowing.png",
+                    "detail": "Menyeimbangkan pH kulit,Mempersiapkan kulit untuk tahapan skincare selanjutnya",
+                    "kategori": "pagi & malam"
+                }
+            ]
         #5
-
+            [
+                {
+                    "id": 5,
+                    "nama": "SUPPLE POWER Hyaluronic9+ Onsen Essence Toner",
+                    "image": "https://storage.googleapis.com/scancam/Produkimg/malam%20hari/toner/Somethinc_SupplePower_Duo_PackShot_800x9801.jpg",
+                    "detail": "Hydrating Toner yang mengandung kesegaran 79% Onsen Belgium Hot Spring Water dan 9 Hyaluronic Acid yang mampu menghidrasi kulit hingga pori-pori terdalam, menjaga elastisitas kulit, & mempersiapkan kulit untuk menyerap serum + pelembab secara maksimal.",
+                    "kategori": "pagi & malam"
+                }
+            ]
     #POST
     #PUT
     #DELETE
