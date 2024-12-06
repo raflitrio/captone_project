@@ -1,0 +1,15 @@
+#LOGIN
+{
+    "message": "Login successful",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImZyUXhOOXVTa3VhUTRGZXgxQjlCajNPRHFXMjMiLCJlbWFpbCI6InJhanUuYWphQGdtYWlsLmNvbSIsImlhdCI6MTczMzQ1MzM4NSwiZXhwIjoxNzMzNTM5Nzg1fQ.LYA8JsXWVjyEk8tg51TNSHcEvr0EORVhULgP526dUFc"
+}
+#REGISTER
+{
+    "message": "User registered successfully",
+    "userId": "pvBXXKVBA1aC3CHGktTEWjq0tgb2"
+}
+#TABLE TONER
+#TABLE PELEMBAB
+#TABLE SUNSCREEN
+#TABLE SERUM
+#TABLE SABUN_CUCI_MUKA
