@@ -122,158 +122,543 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #TABLE PELEMBAB
-    #GET
-    #GET BY CATEGORY
+    #GET ALL
+        [
+            {
+                "id": 1,
+                "nama": "PEPTINOL Granactive Retinoid + Peptide Night Moisturizer Creme",
+                "image": "https://storage.googleapis.com/scancam/Produkimg/malam%20hari/pelembab/PEPTINOL%20Granactive%20Retinoid%20%2B%20Peptide%20Night%20Moisturizer%20Creme.jpg",
+                "detail": "A treatment night cream formulated with Granactive Retinoid, Argireline, & Korean Ginseng Water to maintain skin elasticity, smooth out skin texture, reduce hyperpigmentation, fine lines, & wrinkles. It has BOTOX LIKE EFFECT which makes skin look younger & fresher.",
+                "kategori": "malam"
+            },
+            {
+                "id": 2,
+                "nama": "ACNEDOT Treatment Moisturizer Gel",
+                "image": "https://storage.googleapis.com/scancam/Produkimg/malam%20hari/pelembab/ACNEDOT%20Treatment%20Moisturizer%20Gel.jpg",
+                "detail": "Pelembab wajah vegan dengan 5X Acne Combat Power yang membantu melawan bakteri penyebab jerawat, memperkecil tampilan pori, mengontrol sebum minyak berlebih, & mengurangi jerawat dalam 28 hari*. Dilengkapi dengan Postbiotic untuk mendukung proses regenerasi kulit & menyeimbangkan mikrobioma di kulit. Dengan tekstur gel ringan, tidak lengket, & tidak menjadikan kulit terlihat semakin berminyak.",
+                "kategori": "pagi & malam"
+            }
+        ]
+    #GET BY CATEGORY ID
+        #1
+            [
+                {
+                "id": 1,
+                "nama": "PEPTINOL Granactive Retinoid + Peptide Night Moisturizer Creme",
+                "image": "https://storage.googleapis.com/scancam/Produkimg/malam%20hari/pelembab/PEPTINOL%20Granactive%20Retinoid%20%2B%20Peptide%20Night%20Moisturizer%20Creme.jpg",
+                "detail": "A treatment night cream formulated with Granactive Retinoid, Argireline, & Korean Ginseng Water to maintain skin elasticity, smooth out skin texture, reduce hyperpigmentation, fine lines, & wrinkles. It has BOTOX LIKE EFFECT which makes skin look younger & fresher.",
+                "kategori": "malam"
+                }
+            ]
+        #2
+            [
+                {
+                "id": 2,
+                "nama": "ACNEDOT Treatment Moisturizer Gel",
+                "image": "https://storage.googleapis.com/scancam/Produkimg/malam%20hari/pelembab/ACNEDOT%20Treatment%20Moisturizer%20Gel.jpg",
+                "detail": "Pelembab wajah vegan dengan 5X Acne Combat Power yang membantu melawan bakteri penyebab jerawat, memperkecil tampilan pori, mengontrol sebum minyak berlebih, & mengurangi jerawat dalam 28 hari*. Dilengkapi dengan Postbiotic untuk mendukung proses regenerasi kulit & menyeimbangkan mikrobioma di kulit. Dengan tekstur gel ringan, tidak lengket, & tidak menjadikan kulit terlihat semakin berminyak.",
+                "kategori": "pagi & malam"
+                }
+            ]
+
     #POST
     #PUT
     #DELETE
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #TABLE SUNSCREEN
-    #GET
-    #GET BY CATEGORY
+    #GET ALL
+        [
+            {
+                "id": 1,
+                "nama": "Holyshield Somethinc",
+                "image": "https://storage.googleapis.com/scancam/Produkimg/pagi%20hari/sunscreen/Holyshield_Somethinc_6.png",
+                "detail": "Sunscreen Shake Mist bebas alkohol dengan SPF 46 PA+++. Memanfaatkan teknologi Encapsulated UV Filter yang memberikan perlindungan lebih maksimal dari sinar UVA & UVB. Mudah diaplikasikan kembali tanpa menggeser makeup, No White Cast, tidak lengket, & memberikan tampilan Healthy Glow Finish!",
+                "kategori": "pagi"
+            },
+            {
+                "id": 2,
+                "nama": "PS Holyshield! Glow Up Sunscreen Stick",
+                "image": "https://storage.googleapis.com/scancam/Produkimg/pagi%20hari/sunscreen/PS%20Holyshield%20Glow%20Up%20Sunscreen%20Stick.png",
+                "detail": "Transparent sunscreen stick dengan SPF50+ PA++++ yang mampu menangkal radiasi sinar UVA & UVB. Teksturnya ringan sehingga mudah menyerap, tidak menyumbat pori-pori, & tidak menggeser makeup. Sempurnakan perlindungan & tampilan dengan healthy glow finish yang tidak lengket ataupun berminyak. Mudah diaplikasikan kapanpun & dimanapun tanpa kontak dengan jari tangan.",
+                "kategori": "pagi"
+            }
+        ]
+    #GET BY CATEGORY ID
+   
+        #1
+            [
+                {
+                "id": 1,
+                "nama": "Holyshield Somethinc",
+                "image": "https://storage.googleapis.com/scancam/Produkimg/pagi%20hari/sunscreen/Holyshield_Somethinc_6.png",
+                "detail": "Sunscreen Shake Mist bebas alkohol dengan SPF 46 PA+++. Memanfaatkan teknologi Encapsulated UV Filter yang memberikan perlindungan lebih maksimal dari sinar UVA & UVB. Mudah diaplikasikan kembali tanpa menggeser makeup, No White Cast, tidak lengket, & memberikan tampilan Healthy Glow Finish!",
+                "kategori": "pagi"
+                }
+            ]
+        #2
+            [
+                {
+                "id": 2,
+                "nama": "PS Holyshield! Glow Up Sunscreen Stick",
+                "image": "https://storage.googleapis.com/scancam/Produkimg/pagi%20hari/sunscreen/PS%20Holyshield%20Glow%20Up%20Sunscreen%20Stick.png",
+                "detail": "Transparent sunscreen stick dengan SPF50+ PA++++ yang mampu menangkal radiasi sinar UVA & UVB. Teksturnya ringan sehingga mudah menyerap, tidak menyumbat pori-pori, & tidak menggeser makeup. Sempurnakan perlindungan & tampilan dengan healthy glow finish yang tidak lengket ataupun berminyak. Mudah diaplikasikan kapanpun & dimanapun tanpa kontak dengan jari tangan.",
+                "kategori": "pagi"
+                }
+            ]
     #POST
     #PUT
     #DELETE
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #TABLE SERUM
-    #GET
-    #GET BY CATEGORY
+    #GET ALL
+        [
+            {
+                "id": 1,
+                "nama": "5% Niacinamide + Moisture Sabi Beet Serum",
+                "image": "https://storage.googleapis.com/scancam/Produkimg/malam%20hari/serum/5%25%20Niacinamide%20%2B%20Moisture%20Sabi%20Beet%20Serum.jpg",
+                "detail": "Membantu mencerahkan secara maksimal, mengurangi pigmentasi, memperbaiki tekstur kulit, memperkuat skin barrier, menyamarkan noda hitam, melembabkan, & mengurangi kemerahan. Kandungan Niacinamide 10% memiliki efek & hasil yang lebih kuat pada kulit wajah dan cocok bagi kalian yang sudah terbiasa memakai Niacinamide. Cocok untuk kulit sensitif, berminyak dan berjerawat.",
+                "kategori": "pagi & malam"
+            },
+            {
+                "id": 2,
+                "nama": "5% Niacinamide Barrier Serum",
+                "image": "https://storage.googleapis.com/scancam/Produkimg/malam%20hari/serum/5%25%20Niacinamide%20Barrier%20Serum.jpg",
+                "detail": "5% Niacinamide Barrier Serum Serum Niacinamide dengan formulasi Vegan, 3 jenis Ceramide & Rosa Damascena Water dapat memperkuat skin barrier, mencerahkan, menyamarkan noda hitam, mengurangi kemerahan & melembabkan kulit. Cocok untuk semua jenis kulit & kulit bruntusan.",
+                "kategori": "pagi & malam"
+            },
+            {
+                "id": 3,
+                "nama": "10% Niacinamide + Moisture Sabi Beet Max Brightening Serum",
+                "image": "https://storage.googleapis.com/scancam/Produkimg/malam%20hari/serum/10%25%20Niacinamide%20%2B%20Moisture%20Sabi%20Beet%20Max%20Brightening%20Serum.jpg",
+                "detail": "Serum Niacinamide 10% dengan kandungan SABIWHITE x BEET sebagai #1 Brightening Agent. Hadir untuk membantu mencerahkan secara maksimal, mengurangi pigmentasi, memperbaiki tekstur kulit, memperkuat skin barrier, menyamarkan noda hitam, melembabkan, & mengurangi kemerahan. Kandungan Niacinamide 10% memiliki efek & hasil yang lebih kuat pada kulit wajah dan cocok bagi kalian yang sudah terbiasa memakai Niacinamide. Serum Somethinc 10% Niacinamide cocok untuk kulit sensitif, berminyak dan berjerawat",
+                "kategori": "pagi & malam"
+            },
+            {
+                "id": 4,
+                "nama": "BAKUCHIOL Skinpair Oil Serum",
+                "image": "https://storage.googleapis.com/scancam/Produkimg/malam%20hari/serum/BAKUCHIOL%20Skinpair%20Oil%20Serum.jpg",
+                "detail": "ANTIOXIDANT, BARRIER & ACNE TREATMENT ALTERNATIVES\nSerum Vegan yang menjadi alternatif retinol dari bahan natural untuk merawat jerawat sehingga cocok digunakan untuk seluruh jenis kulit bahkan direkomendasikan untuk kulit berminyak. Bakuchiol mampu menstimulasi pembentukan collagen & memperbaiki tekstur kulit. Dikombinasikan dengan Salicylic Acid, serum ini mampu bekerja untuk menghilangkan beruntusan pada wajah, sehingga kulit menjadi halus, glowing, dan tampak kenyal. Cocok untuk pemula skincare, kulit sensitif, dan berjerawat.",
+                "kategori": "pagi & malam"
+            },
+            {
+                "id": 5,
+                "nama": "HYALuronic9+ Advanced + B5 Serum",
+                "image": "https://storage.googleapis.com/scancam/Produkimg/malam%20hari/serum/HYALuronic9%2B%20Advanced%20%2B%20B5%20Serum.jpg",
+                "detail": "Mengandung 9 jenis Hyaluronic Acid, B5 (Panthenol) & Chlorella, berperan penting dalam meningkatkan produksi kolagen & mengunci kelembaban maksimal hingga 48 jam ke lapisan kulit terdalam! Menenangkan kulit & membersihkan pori-pori kulit. Baik untuk semua jenis kulit & kulit sensitif.",
+                "kategori": "pagi & malam"
+            }
+        ]
+    #GET BY CATEGORY ID
+        #1
+            [
+                    {
+                        "id": 1,
+                        "nama": "5% Niacinamide + Moisture Sabi Beet Serum",
+                        "image": "https://storage.googleapis.com/scancam/Produkimg/malam%20hari/serum/5%25%20Niacinamide%20%2B%20Moisture%20Sabi%20Beet%20Serum.jpg",
+                        "detail": "Membantu mencerahkan secara maksimal, mengurangi pigmentasi, memperbaiki tekstur kulit, memperkuat skin barrier, menyamarkan noda hitam, melembabkan, & mengurangi kemerahan. Kandungan Niacinamide 10% memiliki efek & hasil yang lebih kuat pada kulit wajah dan cocok bagi kalian yang sudah terbiasa memakai Niacinamide. Cocok untuk kulit sensitif, berminyak dan berjerawat.",
+                        "kategori": "pagi & malam"
+                    }
+            ]
+        #2
+            [
+                    {
+                        "id": 2,
+                        "nama": "5% Niacinamide Barrier Serum",
+                        "image": "https://storage.googleapis.com/scancam/Produkimg/malam%20hari/serum/5%25%20Niacinamide%20Barrier%20Serum.jpg",
+                        "detail": "5% Niacinamide Barrier Serum Serum Niacinamide dengan formulasi Vegan, 3 jenis Ceramide & Rosa Damascena Water dapat memperkuat skin barrier, mencerahkan, menyamarkan noda hitam, mengurangi kemerahan & melembabkan kulit. Cocok untuk semua jenis kulit & kulit bruntusan.",
+                        "kategori": "pagi & malam"
+                    }
+           ]
+        #3
+            [
+                    {
+                        "id": 3,
+                        "nama": "10% Niacinamide + Moisture Sabi Beet Max Brightening Serum",
+                        "image": "https://storage.googleapis.com/scancam/Produkimg/malam%20hari/serum/10%25%20Niacinamide%20%2B%20Moisture%20Sabi%20Beet%20Max%20Brightening%20Serum.jpg",
+                        "detail": "Serum Niacinamide 10% dengan kandungan SABIWHITE x BEET sebagai #1 Brightening Agent. Hadir untuk membantu mencerahkan secara maksimal, mengurangi pigmentasi, memperbaiki tekstur kulit, memperkuat skin barrier, menyamarkan noda hitam, melembabkan, & mengurangi kemerahan. Kandungan Niacinamide 10% memiliki efek & hasil yang lebih kuat pada kulit wajah dan cocok bagi kalian yang sudah terbiasa memakai Niacinamide. Serum Somethinc 10% Niacinamide cocok untuk kulit sensitif, berminyak dan berjerawat",
+                        "kategori": "pagi & malam"
+                    }
+            ]
+        #4
+            [
+                    {
+                        "id": 4,
+                        "nama": "BAKUCHIOL Skinpair Oil Serum",
+                        "image": "https://storage.googleapis.com/scancam/Produkimg/malam%20hari/serum/BAKUCHIOL%20Skinpair%20Oil%20Serum.jpg",
+                        "detail": "ANTIOXIDANT, BARRIER & ACNE TREATMENT ALTERNATIVES\nSerum Vegan yang menjadi alternatif retinol dari bahan natural untuk merawat jerawat sehingga cocok digunakan untuk seluruh jenis kulit bahkan direkomendasikan untuk kulit berminyak. Bakuchiol mampu menstimulasi pembentukan collagen & memperbaiki tekstur kulit. Dikombinasikan dengan Salicylic Acid, serum ini mampu bekerja untuk menghilangkan beruntusan pada wajah, sehingga kulit menjadi halus, glowing, dan tampak kenyal. Cocok untuk pemula skincare, kulit sensitif, dan berjerawat.",
+                        "kategori": "pagi & malam"
+                    }
+            ]
+        #5
+            [
+                    {
+                        "id": 5,
+                        "nama": "HYALuronic9+ Advanced + B5 Serum",
+                        "image": "https://storage.googleapis.com/scancam/Produkimg/malam%20hari/serum/HYALuronic9%2B%20Advanced%20%2B%20B5%20Serum.jpg",
+                        "detail": "Mengandung 9 jenis Hyaluronic Acid, B5 (Panthenol) & Chlorella, berperan penting dalam meningkatkan produksi kolagen & mengunci kelembaban maksimal hingga 48 jam ke lapisan kulit terdalam! Menenangkan kulit & membersihkan pori-pori kulit. Baik untuk semua jenis kulit & kulit sensitif.",
+                        "kategori": "pagi & malam"
+                    }
+                ]
     #POST
     #PUT
     #DELETE
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #TABLE SABUN_CUCI_MUKA
-    #GET
-    #GET BY CATEGORY
+    #GET ALL
+        [
+            {
+                "id": 1,
+                "nama": "ms glow facial wash",
+                "image": "https://storage.googleapis.com/scancam/Produkimg/pagi%20hari/sabun%20cuci%20muka/ms%20glow%20facial%20wash.png",
+                "detail": "Mencerahkan Kulit,Membersihkan debu & kotoran",
+                "kategori": "pagi & malam"
+            },
+            {
+                "id": 2,
+                "nama": "Acne Facial Wash",
+                "image": "https://storage.googleapis.com/scancam/Produkimg/pagi%20hari/sabun%20cuci%20muka/6e28ebc0-fc50-4233-b723-f349274c40fb_Acne-Facial-Wash-1.png",
+                "detail": "• Mugwort Hydrosol yang efektif melawan bakteri penyebab jerawat sekaligus menenangkan, dengan Triple Action Mugwort Hydrosol + Tea Tree Water + Salicylic Acid\n• Mengandung Vit C: bantu mengurangi minyak berlebih",
+                "kategori": "pagi & malam"
+            },
+            {
+                "id": 3,
+                "nama": "Brightly Facial Wash",
+                "image": "https://storage.googleapis.com/scancam/Produkimg/pagi%20hari/sabun%20cuci%20muka/094b114e-0234-47ee-8dac-a57d1fb74eac_Brightly-Facial-Wash-1.png",
+                "detail": "Sabun cuci muka yang membantu menjaga kelembapan kulit, mencerahkan kulit wajah, merawat kekencangan kulit, serta membantu mencerahkan kulit wajah.",
+                "kategori": "pagi & malam"
+            }
+        ]
+    #GET BY CATEGORY ID
+        #1
+            [
+                {
+                "id": 1,
+                "nama": "ms glow facial wash",
+                "image": "https://storage.googleapis.com/scancam/Produkimg/pagi%20hari/sabun%20cuci%20muka/ms%20glow%20facial%20wash.png",
+                "detail": "Mencerahkan Kulit,Membersihkan debu & kotoran",
+                "kategori": "pagi & malam"
+                }
+            ]
+        #2
+            [
+                {
+                "id": 2,
+                "nama": "Acne Facial Wash",
+                "image": "https://storage.googleapis.com/scancam/Produkimg/pagi%20hari/sabun%20cuci%20muka/6e28ebc0-fc50-4233-b723-f349274c40fb_Acne-Facial-Wash-1.png",
+                "detail": "• Mugwort Hydrosol yang efektif melawan bakteri penyebab jerawat sekaligus menenangkan, dengan Triple Action Mugwort Hydrosol + Tea Tree Water + Salicylic Acid\n• Mengandung Vit C: bantu mengurangi minyak berlebih",
+                "kategori": "pagi & malam"
+                }
+            ]
+        #3
+            [
+                {
+                "id": 3,
+                "nama": "Brightly Facial Wash",
+                "image": "https://storage.googleapis.com/scancam/Produkimg/pagi%20hari/sabun%20cuci%20muka/094b114e-0234-47ee-8dac-a57d1fb74eac_Brightly-Facial-Wash-1.png",
+                "detail": "Sabun cuci muka yang membantu menjaga kelembapan kulit, mencerahkan kulit wajah, merawat kekencangan kulit, serta membantu mencerahkan kulit wajah.",
+                "kategori": "pagi & malam"
+                }
+            ]
     #POST
     #PUT
     #DELETE
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #TABEL AVATAR
-    #GET 
-[
-    {
-        "id": 1,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars9.png"
-    },
-    {
-        "id": 2,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars8.png"
-    },
-    {
-        "id": 3,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars7.png"
-    },
-    {
-        "id": 4,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars6.png"
-    },
-    {
-        "id": 5,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars5.png"
-    },
-    {
-        "id": 6,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars4.png"
-    },
-    {
-        "id": 7,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars3.png"
-    },
-    {
-        "id": 8,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars24.png"
-    },
-    {
-        "id": 9,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars23.png"
-    },
-    {
-        "id": 10,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars22.png"
-    },
-    {
-        "id": 11,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars21.png"
-    },
-    {
-        "id": 12,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars20.png"
-    },
-    {
-        "id": 13,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars2.png"
-    },
-    {
-        "id": 14,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars19.png"
-    },
-    {
-        "id": 15,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars18.png"
-    },
-    {
-        "id": 16,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars17.png"
-    },
-    {
-        "id": 17,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars16.png"
-    },
-    {
-        "id": 18,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars15.png"
-    },
-    {
-        "id": 19,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars14.png"
-    },
-    {
-        "id": 20,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars13.png"
-    },
-    {
-        "id": 21,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars12.png"
-    },
-    {
-        "id": 22,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars11.png"
-    },
-    {
-        "id": 23,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars10.png"
-    },
-    {
-        "id": 24,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars1.png"
-    },
-    {
-        "id": 25,
-        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars.png"
-    }
-]
+    #GET ALL
+        [
+            {
+                "id": 1,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars9.png"
+            },
+            {
+                "id": 2,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars8.png"
+            },
+            {
+                "id": 3,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars7.png"
+            },
+            {
+                "id": 4,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars6.png"
+            },
+            {
+                "id": 5,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars5.png"
+            },
+            {
+                "id": 6,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars4.png"
+            },
+            {
+                "id": 7,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars3.png"
+            },
+            {
+                "id": 8,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars24.png"
+            },
+            {
+                "id": 9,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars23.png"
+            },
+            {
+                "id": 10,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars22.png"
+            },
+            {
+                "id": 11,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars21.png"
+            },
+            {
+                "id": 12,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars20.png"
+            },
+            {
+                "id": 13,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars2.png"
+            },
+            {
+                "id": 14,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars19.png"
+            },
+            {
+                "id": 15,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars18.png"
+            },
+            {
+                "id": 16,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars17.png"
+            },
+            {
+                "id": 17,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars16.png"
+            },
+            {
+                "id": 18,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars15.png"
+            },
+            {
+                "id": 19,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars14.png"
+            },
+            {
+                "id": 20,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars13.png"
+            },
+            {
+                "id": 21,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars12.png"
+            },
+            {
+                "id": 22,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars11.png"
+            },
+            {
+                "id": 23,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars10.png"
+            },
+            {
+                "id": 24,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars1.png"
+            },
+            {
+                "id": 25,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars.png"
+            }
+        ]
     #GET BY ID
-{
-    "id": 1,
-    "image": "https://storage.googleapis.com/scancam/Avatar/avataaars9.png"
-}
-    
+        #1
+            [
+                {
+                "id": 1,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars9.png"
+                }
+            ]
+        #2
+            [
+                {
+                "id": 2,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars8.png"
+                }
+            ]
+        #3
+            [
+                {
+                "id": 3,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars7.png"
+                }
+            ]
+        #4
+            [
+                {
+                "id": 4,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars6.png"
+                }
+            ]
+        #5
+            [
+                {
+                "id": 5,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars5.png"
+                }
+            ]
+        #6
+            [
+                {
+                "id": 6,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars4.png"
+                }
+            ]
+        #7
+            [
+                {
+                "id": 7,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars3.png"
+                }
+            ]
+        #8
+            [
+                {
+                "id": 8,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars24.png"
+                }
+            ]
+        #9
+            [
+                {
+                "id": 9,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars23.png"
+                }
+            ]
+        #10
+            [
+                {
+                "id": 10,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars22.png"
+                }
+            ]
+        #11
+            [
+                {
+                "id": 11,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars21.png"
+                }
+            ]
+        #12
+            [
+                {
+                "id": 12,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars20.png"
+                }
+            ]
+        #13
+              [
+                {
+                "id": 13,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars2.png"
+                }
+            ]
+        #14
+            [
+                {
+                "id": 14,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars19.png"
+                }
+            ]
+        #15
+            [
+                {
+                "id": 15,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars18.png"
+                  }
+            ]
+        #16
+            [
+                {
+                "id": 16,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars17.png"
+                }
+            ]
+        #17
+            [
+                {
+                "id": 17,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars16.png"
+                }
+            ]
+        #18
+            [
+                {
+                "id": 18,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars15.png"
+                }
+            ]
+        #19
+            [
+                {
+                "id": 19,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars14.png"
+                }
+            ]
+        #20
+            [
+                {
+                "id": 20,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars13.png"
+                }
+            ]   
+        #21
+            [
+                {
+                "id": 21,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars12.png"
+                }
+            ]
+        #22
+            [
+                {
+                "id": 22,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars11.png"
+                }
+            ]
+        #23
+            [
+                {
+                "id": 23,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars10.png"
+                }
+            ]
+        #24
+            [
+                {
+                "id": 24,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars1.png"
+                }
+            ]
+        #25
+            [
+                {
+                "id": 25,
+                "image": "https://storage.googleapis.com/scancam/Avatar/avataaars.png"
+                }
+            ]
+            
     #POST
-{
-    "message": "Avatar berhasil ditambahkan",
-    "id": 26
-}
+        {
+            "message": "Avatar berhasil ditambahkan",
+            "id": 26
+        }
     #PUT
-{
-    "message": "Avatar berhasil diperbarui"
-}
+        {
+            "message": "Avatar berhasil diperbarui"
+        }
     #DELETE
-{
-    "message": "Avatar berhasil dihapus"
-}
+        {
+            "message": "Avatar berhasil dihapus"
+        }
 
