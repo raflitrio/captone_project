@@ -151,3 +151,129 @@ ________________________________________________________________________________
     #POST
     #PUT
     #DELETE
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+#TABEL AVATAR
+    #GET 
+[
+    {
+        "id": 1,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars9.png"
+    },
+    {
+        "id": 2,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars8.png"
+    },
+    {
+        "id": 3,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars7.png"
+    },
+    {
+        "id": 4,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars6.png"
+    },
+    {
+        "id": 5,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars5.png"
+    },
+    {
+        "id": 6,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars4.png"
+    },
+    {
+        "id": 7,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars3.png"
+    },
+    {
+        "id": 8,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars24.png"
+    },
+    {
+        "id": 9,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars23.png"
+    },
+    {
+        "id": 10,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars22.png"
+    },
+    {
+        "id": 11,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars21.png"
+    },
+    {
+        "id": 12,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars20.png"
+    },
+    {
+        "id": 13,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars2.png"
+    },
+    {
+        "id": 14,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars19.png"
+    },
+    {
+        "id": 15,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars18.png"
+    },
+    {
+        "id": 16,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars17.png"
+    },
+    {
+        "id": 17,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars16.png"
+    },
+    {
+        "id": 18,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars15.png"
+    },
+    {
+        "id": 19,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars14.png"
+    },
+    {
+        "id": 20,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars13.png"
+    },
+    {
+        "id": 21,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars12.png"
+    },
+    {
+        "id": 22,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars11.png"
+    },
+    {
+        "id": 23,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars10.png"
+    },
+    {
+        "id": 24,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars1.png"
+    },
+    {
+        "id": 25,
+        "image": "https://storage.googleapis.com/scancam/Avatar/avataaars.png"
+    }
+]
+    #GET BY ID
+{
+    "id": 1,
+    "image": "https://storage.googleapis.com/scancam/Avatar/avataaars9.png"
+}
+    
+    #POST
+{
+    "message": "Avatar berhasil ditambahkan",
+    "id": 26
+}
+    #PUT
+{
+    "message": "Avatar berhasil diperbarui"
+}
+    #DELETE
+{
+    "message": "Avatar berhasil dihapus"
+}
+
