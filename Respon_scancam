@@ -4,43 +4,43 @@ http://34.101.224.206:8080/produkimg/malam/facialwash
     "files": [
         {
             "type": "image",
-            "name": "produkimg/malam/facialwash/1.png",
-            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/1.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=dUxX66w0D%2Fgrhrv4e%2BIdxEFL7nWYNLPtSecCMS%2F6iWW%2FDqFNV4TW1BKOz8oUUJZK17sXjwwOe9bI1nw28A45lWi%2FjIEnBT0hbWgT3kcqYMzgOPEPSZuo951O4r1tJzrcFH6cdcUWhfOCyPXmuM44EE3lI8Jobe7mWX0NfImVxaanEe3HQ40C7Llq8SNFQMAOansX1A8EJ9xFg0vsX%2F6FvsyMK2TcGuWKrNfe%2FEvJqOBzaFqBoQwotQt0seBEmXjtZrVahMTKRuN2cQcb2W0mTkaDANJUd5%2F08IHwTNrbuT4XF94b6HWWL7T%2FxRUMIUSQyZS%2B6VMpIgwghePliSwDwg%3D%3D"
+            "name": "Acne Facial Wash",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/Acne%20Facial%20Wash.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=lop8IvY5Gg7g%2BQtizBmD5i0y5VcweWwlXmJuLW03EVLz4EP1N8GQLHNhLwDylUvpsR6VFlUj%2BKpUN%2FMoFDQuFRyld4edtDXPnVuTU4f8ymSbfUIHHnjoa5cqFamoYgidz91jPbPJt8fZ2oO84BTgx4lQXsQaKvVNqUXvojNYHZ%2FYzHV%2F8ueD1Qq5MnOFI53al%2BlDDY2kO4uxsiUeZ0me0EadX3m2Y7U0AYJBF9nJm68xxIRHUIs%2Fe053O2p1BnFysetStB1U3E4VTqNYuYfFF1VHD6kB5Exfka9zRgpT0195WfOGYjl2nRMoskXTtsmINmX1jqspHz%2B76OuNm%2FSyyg%3D%3D"
         },
         {
             "type": "text",
-            "name": "produkimg/malam/facialwash/1.txt",
-            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/1.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=k8YUM%2Byf9EmX%2Byr8F0Fa2GQJtpIOXIjr8mFb5ui5kqSTRJdi2FTMkqh%2FcA8l4EgPo6nO48MoZU1%2Fqh7MdXBZ%2BLPMQbK5OngLj%2FZVPqgUZ6xzzQEBxnNyg%2BK1HxxoDqqZFtxo4Azj5g278fLosShQJrb1BX951IU4ol%2FdRiwmQ4f%2BE5zfzML32fqkKEmRUJRHNYVpZNO0DLTpmZjF0xr%2F0OtibhWZpYJmWI2jOtOLArAMOFh%2FNTHP451CHMNqJgmRmwCf5kKKt5Zk%2FAS7g99MO5wwNBTPBEn2BTmzgdPlz8fJb4vwQjUHCSGhH4tpGO9ptQPl%2BT0QmAtceDNkilqrQQ%3D%3D"
+            "name": "Acne Facial Wash",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/Acne%20Facial%20Wash.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=hv5JDcQpgyqAdo88VvVydG1ewfKabXl1dXvM4XJAj6bQQzbNsZyv5SIyWYa4gxAB79QS3VFyVxBTahAved5OIxi%2BLm3G9p7qJfGYXHP4iLcwWQAYupSn6TYiOTbg84aTiu54b0RSRX0tvPOuziFC7mtwtvRf9rn0r40eXPr4wLF848GsVVG6cScYIjtGD1EzaiTvz3ZwGD%2FEsIoqeFRZEgi5udOIaWCwEyWAuiyEavdcrVHM5zQa9VL0ttOtviPLjOaHFAsN%2BGVrgOD0oneGrJ236iyt5zwGBUNDo5e6PfucEG1A%2BTJLJpM66rGzb0DqXNUmwfVWv5ybVBnFV8A%2B6w%3D%3D"
         },
         {
             "type": "image",
-            "name": "produkimg/malam/facialwash/2.png",
-            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/2.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=hwKKgXNBMG%2B12t3t3OvyigoPdpQLihpem0imP6ISp0b2w51%2FCqePXRiZhKW%2Bv93jO1cnccdFjs0Bedz8uitqc2SIM2HkinETn86RBSiux%2F4lyV%2F9W%2Fvlng8FJ6XaCZOMDyeYO9F3XCSfQ6oq7sAwxsKv1EpKjgRzbCLHO4RGbMxuhFuMjSzr84ZXGYQpFF5myxN0PiEDy9uoQEsQAAH5k9AcLD1zCxRjz2jbEUnyl4sjE%2BJKflCcM9AV%2F64Nc9g3HCG6Tjq%2F5oKU%2BCeeaYgcGCvDOxMkz9EjZA9F3rdRTHReyYmdZ0e4WXApnX2BzJ7bLrcmP2u7wJrEWzA39tz0Pg%3D%3D"
+            "name": "Brightening Facial Wash",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/Brightening%20Facial%20Wash.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=OH3cMNecttDfEE8TEa%2B0cV6WiBOeexT6OX5JCic9p8ZC%2FW9D0OLDdNsDzTWLSZ5I%2FqOnko762ebglASsvca0WXrJy7%2FlmHz5FuFOH7lCycbxpXjq0pQmKuJF0A0QdYc%2F9ihCTpiFCkfqYZgQOe9C57ZuKCYVUjknnwoiIQRzIgYF5pqfK0G%2B%2BxJmIlLajy2VuKQ69Z1K3uQ5jXqdPqRg9ojJAYkHUt2mcgck8ZBzwos3wavxFIiYKjeHqyxojNIe4V1Oru24LWfrU%2BphNB94EgFCN96fD56wPTSmwQgSMnbgfvnWSGysqAVlBlVb%2F%2F2foLEY3gjGq4wrn4ichD3F4Q%3D%3D"
         },
         {
             "type": "text",
-            "name": "produkimg/malam/facialwash/2.txt",
-            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/2.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=orQow3JmeYh3uQ%2B7WYNkC3GLw%2FDHr6F%2BbuxkrBRrqs7v729RRv%2BB29tp%2F%2FOBkCo7swOJYkxEipW8oenu0QIzjtTHJL14w%2BU%2FD8%2Fq4MBR5MglHFvV%2FBqTt%2BAFwakKT29IJlqrr2mViyVq2hsVGdYeMy%2FxG0gHgE%2FHP9gJpJ9KTWyvw0ZiTG6FlIIzTzgJJLzrVeirPUWrtauTPxg0Fe3NHex6OvsG%2B02bi52QAUsUGAW6BKV3591idKQU7VdbzU0tyDpx0YzWxn5Ycl0xkxbIhCaBwxDgwvM4CapZxMS1EpN2hou82w6wW2m0eEvbVUJP1%2BenaQuQNP9OAF6inzWN6w%3D%3D"
+            "name": "Brightening Facial Wash",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/Brightening%20Facial%20Wash.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=MV8bf86jIXhtEHz7FiDD7Wd7zFJMOpHof4CIJID%2FGRqexRxXEUWLyVtQTvrGlM2aGACGsUajQAaEzxn9WbHoX5D6Bo4zVIW%2FUqvYxGmY997necobfT1ZBDe0UzMDxHuDjKJREBMkmdmKLRISZLfFSgtxVlEDduna8ipT3wd5CK7qHN9w5VpYDmLWJnzNgjb2PQkKN1ZA5gaAuNI0Kxnl%2FQfO4ZcQI%2BobnCkn69aKpRpTFQ2WWtIl2q2KSzLL0RyogXsYcAXtdKTaGbpbpBMlYvxGjxbug7xWKydG8PdOr6bDycMfXPJNsqu249nTlXo9DkGsmb6yVJArIETPKw0gqQ%3D%3D"
         },
         {
             "type": "image",
-            "name": "produkimg/malam/facialwash/3.png",
-            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/3.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=GUrJU6ubRSJTTjKcDeL4btOU%2BleDvMqbm7sP46U2wBSBUc4ZnuTI5pWEAUxGITEnz31znVLjMExy%2FtQwskxETE9p%2FnKog8keWiWHomcSMD%2F727eOCIox0q06jwn2VQAiUBr5zbfyAJmE%2BJS%2BzTeUc96i43%2B5o%2FTE1gdL1h%2FGJmjBfOJvxC3AxjclcAIur5F2ntzUt9XGC2owRKLC4eyNXg6%2BvxLd4bpPllZfxHEN%2Faethrn53ZgUDf05PWUjCspFvs0ALDcaKIxZzkugdXk575hZtB74LLgNzGpcsf%2FfwVdvSOohCpsIhEkKbY64aRL836MpJH3a30rOhAaOWmy8Ww%3D%3D"
+            "name": "MS GLOW Facial Wash",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/MS%20GLOW%20Facial%20Wash.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=ZKWuIjo7hmamGaLUt8cFk2JfH8AiayO%2F882qGbQNYy3esx3NR13ntvSvAM5aVMcGVtt%2B93TGYOGXVEa9iWVavYGwRg%2FCWOqAwUK%2FKu3agmnCoyMui%2FOtRd8tBqqwVVqbhBSUvppdtZUKjrJXLGlrsiWttxJLiK8GzYJith0amMu5mfnsYHAbSFRm7l614RW8myAnBYgWHzdXQug0wheskF%2BWhmADLjMnGonHRireeNwU2PbyFMGEERBgWKNmRSbq2cvIiZNTUbf2mKS%2B%2B%2F88CvB1C1QUdoJHlS6ecAnI6cFQZE0pcWDOk23xeAbc6I%2BgJlJHHFHP7pvSrrFdBQmMSQ%3D%3D"
         },
         {
             "type": "text",
-            "name": "produkimg/malam/facialwash/3.txt",
-            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/3.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=FVBHSAdXCDWoq63M3dZgpPCA3sw8jS4NRL60%2F9JMcdwvQuF9VhrrJQEpVwsMgkJI1kInit5%2FQJBfdyyd0bgcVYjy6rymnYxqQ%2FxNx9KkWsWTaEycaaybIA27Ddd5YCIRwPXZv8HL8aRmw1W%2FhRQ4LRdMC6Rr5bLXYIBbhjNvwFP5YsB0Ff8xPEj4%2FLj7LQ59KjbLrCF30DkX%2BJpsFYB0WEMXxJr5O3lNR8s8UN3aybOySvU2xhPqrRdG%2BaFg7oJ2eVvneuFadVwnm0cq2fPcN9p9QLxuvm1BaMocmqPCnnTJHQbqqcGBS8OtDnJOQIuAbZYpXoSLMLV5hrXvYfPlrw%3D%3D"
+            "name": "MS GLOW Facial Wash",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/MS%20GLOW%20Facial%20Wash.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=OkWwrB%2BCEYLUGAS9iTR1I9J0jALOIpwvriG4OeGglVJpRT2e697v%2FafXaZ1XTE2SUpXmAKyHiwleJvJvxn%2Bo6QjFUZNm9T%2B3gsbzschPeaFceYrF5vX8g410bQD55s63f0kjKFbTbjpyPTDswypA4jp7k2cJX2rx64SDG608UP9TXNBCWWxF3UXjZ5YANWNlW2fK7OSmjYThUnEj4LGD13zQCZ5VBMc1xVz0r6V3am7LkjqmmIEj%2FCBleQTgXSpo0v%2BLabRaUDZVG%2Bmwn%2B14vSgYqdOdBbD0opmkQr57fk1ss%2FK%2FgtiHCBPdBz5oDb%2BiHtoGJC%2BA1Olk4vYfXxFD8w%3D%3D"
         },
         {
             "type": "image",
-            "name": "produkimg/malam/facialwash/4.png",
-            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/4.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=drvGjUhSTGei86%2FxCE4vL6edd1aShQLJ2WRniJ9rhIu%2Bsu2e2Upn%2FXzR54I3oCMV6bTNf6Svfdg5iOAE5IAzUCujh79kCCqTxFVfWxycSfxh90%2BLuNvcEBa2zvd3143xU44ux%2BHmAPEXZmepA1stkd4X9%2FYcQyLvnaDIKE2Kdkt9uQJdj6MiZgjrFDsaKoiAlqsAoTbmD1W339BDFCZRa3L6avXln%2BWdoXwx52tz0%2FBoHPP3rWje%2FsJqdkTttkalz85CYYw%2BypYdq6P%2FhTN%2BNZNMO0qir0pQ8vd3%2BdJEvuhDIFYMJdbThyUTgC75jK%2FyHM8hVSdiM35nvsLSqe%2FUxA%3D%3D"
+            "name": "Mugwortella Charcoal",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/Mugwortella%20Charcoal.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=VBqx9Z2%2F0piFuiKDKt%2Fm5qyotd2FdVNcGImSJmJNIsz72r5jjJtKV%2FLteGCAy1DrJ711gdMkiIwBhTG8JpnKs%2F%2Fz9xwtOrAN%2Bsm5%2B0nI7qS36h2E3esDUU6eOlCaX04OsmnXwJMfCjaYSrH3YT3MgRjfSi7W458tyrdCpacRNAEv7RbBSfEBnCikE9I2pHNWbZNeWkqIkp4X3qHFpDlGljTGuJGabYZjSFmmeUieq6LiP3S%2FJVU3klzxHE6rmB7uM%2FD4QPIJixUOKO1ReQGUWTCnzNkShP6uII2IApiWpKhDIDcfiFPq%2Fg1GNjrcM%2BeIV3K2Sl0b0x%2Fgs0leYMwkPQ%3D%3D"
         },
         {
             "type": "text",
-            "name": "produkimg/malam/facialwash/4.txt",
-            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/4.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=BGHh5OElvEigWIqU2TzTaOgmvc7GOqCqnM5xj016huE2lXS2kFl1SP5MLOq7M3yf2ikTKgfAXfNZrzSUqP1%2BoUiUcNWSHpkk03LzD1X1c5h5WcHQZu%2BF%2FTCmNk%2BYfNjZqd2OX9Y61TcpQi7hohCbCY2yKb6ILEavkkPfpTdKLV4Or%2F3Pg1RPYtBQtH8PSf1MMJHSh7tEyvFkqHsT0bH2anvynbpvWi5aw16MA18GdfqOyvGNRCGSWfmmw6SWDoDCrzct8gUqFRu5%2BsLi0QpxIhRDKpujWy8EwwP7ToUOXCeOp7X6xUeFuJZkp6r4ie765BkEi8EX5GFZZFramPQyAg%3D%3D"
+            "name": "Mugwortella Charcoal",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/Mugwortella%20Charcoal.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=Yr7Bd%2FPoeOk0uWCz%2B8q7VTOM3T%2Fa0cUCENeGQLj7mpqHmF60w1XY9i4yRBkmb%2F6DnLxrXQmhqkZJHphIw%2BjAA2%2BK%2BxttltTCHBoX95rijinteQ2OMRQ8JPjKkO0dkPfXqGn7uquy%2Fr2iXXKLgWoO9XDwkITppXujqFFh%2B3nmh3pCLcHSz5YjTFe%2FI43eKp4u4nxoCArUsgEl%2FyHAoXFMaB8mxA5pDjJPhJXlcYNtFH8ZyptIGKYiaSpQv41VFJpziTzRYKre0uJOn0WzDcUBW%2Bgx24SJRrO1Ai7nJ8ZWDsdCREqVtiLwONP3wGKRugV07ZQNrX9%2BnB0R9O7P8soR3A%3D%3D"
         }
     ]
 }
