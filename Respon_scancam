@@ -1,26 +1,46 @@
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-http://34.101.224.206:8080/produkimg/:folder/:subfolder
+http://34.101.224.206:8080/produkimg/malam/facialwash
    {
     "files": [
         {
             "type": "image",
-            "name": "produkimg/malam/pelembab/1.jpg",
-            "url": "https://storage.googleapis.com/skincam/produkimg/malam/pelembab/1.jpg?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=k%2FMAld4uWoObknjh0weKEldPbQ6y%2F2bNmZJ0jvsrINBSry0q3LNzQMggMWVrwp17PYg4w4%2F0um4gmzZS3vyIxaSq5ll2HCjnywruwerrbesBIJYnYw7Jr8X41Dh9gyJBppheDWmr9n4NywmRr8Pda7eq1WLH6xlpVh2dPZIn%2FKC9Qjp85qws3dRrEFOvNfwQ1yH%2FSJ5v1U%2F5wQcz9VDLtWJ2WFgrJ4m1mCO1lz117oz2NLgCJxbMZUcGcmFqMdeNeAa5GTOVZJHkaBX4ksY7D0Ki1Xpi3wrL%2BbmDn2wzQe9BKVs8%2BZ9%2F6W1YaSexFIcjcu%2FyW6lPoHAKlAmF95ApsQ%3D%3D"
+            "name": "produkimg/malam/facialwash/1.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/1.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=dUxX66w0D%2Fgrhrv4e%2BIdxEFL7nWYNLPtSecCMS%2F6iWW%2FDqFNV4TW1BKOz8oUUJZK17sXjwwOe9bI1nw28A45lWi%2FjIEnBT0hbWgT3kcqYMzgOPEPSZuo951O4r1tJzrcFH6cdcUWhfOCyPXmuM44EE3lI8Jobe7mWX0NfImVxaanEe3HQ40C7Llq8SNFQMAOansX1A8EJ9xFg0vsX%2F6FvsyMK2TcGuWKrNfe%2FEvJqOBzaFqBoQwotQt0seBEmXjtZrVahMTKRuN2cQcb2W0mTkaDANJUd5%2F08IHwTNrbuT4XF94b6HWWL7T%2FxRUMIUSQyZS%2B6VMpIgwghePliSwDwg%3D%3D"
         },
         {
             "type": "text",
-            "name": "produkimg/malam/pelembab/1.txt",
-            "url": "https://storage.googleapis.com/skincam/produkimg/malam/pelembab/1.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=U7OTbTTXHWINLZPL%2FYCrf9RjO5jACy8FWPQ77Co8bCnRqnVmTV84Tu23AqE6J%2FHKunZimTUmY85TGl2X5YiYnA80M5jouOUqWVeM9HXQ9DUtRW3PthpQPnHTb4d6Gw9Ap4VXyZvDtzoIPjWeQJWN1Dbd7SivTMY8PhCPMYe9MNf2SceS5QCCkqW134%2Bp5VuHVkZqhpgKZHX670bAC8%2B9OEailQ2TL0%2FJCTQabw4iXA1yeWow160%2Flt1QenoBjGJ6ZNCr25Nij9QFkP%2F8H5E%2FF2OLU5rc7%2F9Sfa6vHLLyo4wRDQBoiLh7acMKtIX8zXAiizvNYY0%2B3bjoXb0NYNPIyA%3D%3D"
+            "name": "produkimg/malam/facialwash/1.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/1.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=k8YUM%2Byf9EmX%2Byr8F0Fa2GQJtpIOXIjr8mFb5ui5kqSTRJdi2FTMkqh%2FcA8l4EgPo6nO48MoZU1%2Fqh7MdXBZ%2BLPMQbK5OngLj%2FZVPqgUZ6xzzQEBxnNyg%2BK1HxxoDqqZFtxo4Azj5g278fLosShQJrb1BX951IU4ol%2FdRiwmQ4f%2BE5zfzML32fqkKEmRUJRHNYVpZNO0DLTpmZjF0xr%2F0OtibhWZpYJmWI2jOtOLArAMOFh%2FNTHP451CHMNqJgmRmwCf5kKKt5Zk%2FAS7g99MO5wwNBTPBEn2BTmzgdPlz8fJb4vwQjUHCSGhH4tpGO9ptQPl%2BT0QmAtceDNkilqrQQ%3D%3D"
         },
         {
             "type": "image",
-            "name": "produkimg/malam/pelembab/2.jpg",
-            "url": "https://storage.googleapis.com/skincam/produkimg/malam/pelembab/2.jpg?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=RTEZEkTblFLIy4D75v2gd3GY4WNAdzdDidmfiZBlaussKQ785iZVAPTjR836w2XG1GyFgBMr8X9mS5%2F04GQas7EWGJxQQkdyJq1TPGtC1uEnY5ElSCg7fMtIp55BhCmpT5PoTzKmuOEMY0udUAL2tSBVzbbK6CWZP4BiGAgmKXiDwlr1%2FYnhKii3NK87KWBXMWW486jQHgYrqqP%2BeE77spod52olYQm4ur9AeI%2FzUFH%2Bq5w4DwYDgwDZGqWvMUUaUG9i%2B2neZnznW5QFSKv6DRt1fAJlANyTlAK2hsuWkS%2F76KMS7vYD8UxKvfwx2dSVGLC4U9cnyfI04eYQKhZDLw%3D%3D"
+            "name": "produkimg/malam/facialwash/2.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/2.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=hwKKgXNBMG%2B12t3t3OvyigoPdpQLihpem0imP6ISp0b2w51%2FCqePXRiZhKW%2Bv93jO1cnccdFjs0Bedz8uitqc2SIM2HkinETn86RBSiux%2F4lyV%2F9W%2Fvlng8FJ6XaCZOMDyeYO9F3XCSfQ6oq7sAwxsKv1EpKjgRzbCLHO4RGbMxuhFuMjSzr84ZXGYQpFF5myxN0PiEDy9uoQEsQAAH5k9AcLD1zCxRjz2jbEUnyl4sjE%2BJKflCcM9AV%2F64Nc9g3HCG6Tjq%2F5oKU%2BCeeaYgcGCvDOxMkz9EjZA9F3rdRTHReyYmdZ0e4WXApnX2BzJ7bLrcmP2u7wJrEWzA39tz0Pg%3D%3D"
         },
         {
             "type": "text",
-            "name": "produkimg/malam/pelembab/2.txt",
-            "url": "https://storage.googleapis.com/skincam/produkimg/malam/pelembab/2.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=TuT%2FYC6nvl8keYFHhp81l5Y%2FOa8eHN8o2CZmbLCxxMFi%2BVmuimfo7Gfu3a37XFUTiXVObCbqO%2BQL%2BrnVXF%2B9h1WodyNuxviDPqoM8Sv9g28v%2B42Mc13aEBZICxUbMRnrpABPQ8DwocpDWn79ij291LantUhMatJRRuJzDlbTh465cYY0f4Vc%2BopCYt88OyxorsNqLdh2U8QLCBZFgc%2BaqtEBDEM88%2FF6cCvc2SFDlVmu2OOPxcmJetOeMGJMaVpO2JpF1dPQJ%2BDc2%2BgrmdBkEMfqLAkhjIVJv4j6EL1rl1scrfC14Or00B13EVjVsZOYygBGq7g0Qp8Mvjr2v48LKg%3D%3D"
+            "name": "produkimg/malam/facialwash/2.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/2.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=orQow3JmeYh3uQ%2B7WYNkC3GLw%2FDHr6F%2BbuxkrBRrqs7v729RRv%2BB29tp%2F%2FOBkCo7swOJYkxEipW8oenu0QIzjtTHJL14w%2BU%2FD8%2Fq4MBR5MglHFvV%2FBqTt%2BAFwakKT29IJlqrr2mViyVq2hsVGdYeMy%2FxG0gHgE%2FHP9gJpJ9KTWyvw0ZiTG6FlIIzTzgJJLzrVeirPUWrtauTPxg0Fe3NHex6OvsG%2B02bi52QAUsUGAW6BKV3591idKQU7VdbzU0tyDpx0YzWxn5Ycl0xkxbIhCaBwxDgwvM4CapZxMS1EpN2hou82w6wW2m0eEvbVUJP1%2BenaQuQNP9OAF6inzWN6w%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "produkimg/malam/facialwash/3.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/3.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=GUrJU6ubRSJTTjKcDeL4btOU%2BleDvMqbm7sP46U2wBSBUc4ZnuTI5pWEAUxGITEnz31znVLjMExy%2FtQwskxETE9p%2FnKog8keWiWHomcSMD%2F727eOCIox0q06jwn2VQAiUBr5zbfyAJmE%2BJS%2BzTeUc96i43%2B5o%2FTE1gdL1h%2FGJmjBfOJvxC3AxjclcAIur5F2ntzUt9XGC2owRKLC4eyNXg6%2BvxLd4bpPllZfxHEN%2Faethrn53ZgUDf05PWUjCspFvs0ALDcaKIxZzkugdXk575hZtB74LLgNzGpcsf%2FfwVdvSOohCpsIhEkKbY64aRL836MpJH3a30rOhAaOWmy8Ww%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/malam/facialwash/3.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/3.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=FVBHSAdXCDWoq63M3dZgpPCA3sw8jS4NRL60%2F9JMcdwvQuF9VhrrJQEpVwsMgkJI1kInit5%2FQJBfdyyd0bgcVYjy6rymnYxqQ%2FxNx9KkWsWTaEycaaybIA27Ddd5YCIRwPXZv8HL8aRmw1W%2FhRQ4LRdMC6Rr5bLXYIBbhjNvwFP5YsB0Ff8xPEj4%2FLj7LQ59KjbLrCF30DkX%2BJpsFYB0WEMXxJr5O3lNR8s8UN3aybOySvU2xhPqrRdG%2BaFg7oJ2eVvneuFadVwnm0cq2fPcN9p9QLxuvm1BaMocmqPCnnTJHQbqqcGBS8OtDnJOQIuAbZYpXoSLMLV5hrXvYfPlrw%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "produkimg/malam/facialwash/4.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/4.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=drvGjUhSTGei86%2FxCE4vL6edd1aShQLJ2WRniJ9rhIu%2Bsu2e2Upn%2FXzR54I3oCMV6bTNf6Svfdg5iOAE5IAzUCujh79kCCqTxFVfWxycSfxh90%2BLuNvcEBa2zvd3143xU44ux%2BHmAPEXZmepA1stkd4X9%2FYcQyLvnaDIKE2Kdkt9uQJdj6MiZgjrFDsaKoiAlqsAoTbmD1W339BDFCZRa3L6avXln%2BWdoXwx52tz0%2FBoHPP3rWje%2FsJqdkTttkalz85CYYw%2BypYdq6P%2FhTN%2BNZNMO0qir0pQ8vd3%2BdJEvuhDIFYMJdbThyUTgC75jK%2FyHM8hVSdiM35nvsLSqe%2FUxA%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/malam/facialwash/4.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/facialwash/4.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=BGHh5OElvEigWIqU2TzTaOgmvc7GOqCqnM5xj016huE2lXS2kFl1SP5MLOq7M3yf2ikTKgfAXfNZrzSUqP1%2BoUiUcNWSHpkk03LzD1X1c5h5WcHQZu%2BF%2FTCmNk%2BYfNjZqd2OX9Y61TcpQi7hohCbCY2yKb6ILEavkkPfpTdKLV4Or%2F3Pg1RPYtBQtH8PSf1MMJHSh7tEyvFkqHsT0bH2anvynbpvWi5aw16MA18GdfqOyvGNRCGSWfmmw6SWDoDCrzct8gUqFRu5%2BsLi0QpxIhRDKpujWy8EwwP7ToUOXCeOp7X6xUeFuJZkp6r4ie765BkEi8EX5GFZZFramPQyAg%3D%3D"
         }
     ]
 }
@@ -57,6 +77,19 @@ http://34.101.224.206:8080/allavatars
         "http://storage.googleapis.com/skincam/avatar/avatar25.png"
     ]
 }
+
+
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+http://34.101.224.206:8080/upload
+
+{
+    "message": "File uploaded successfully",
+    "fileName": "avataaars26.png",
+    "fileType": "image/png",
+    "url": "https://storage.googleapis.com/skincam/avatar/1733888005196-avataaars26.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=Lb2vQlFBqOjwyBG0EehGN9NB6HjUbBlXgS%2Bukstu71IgK06F7dTEsbrtPFi2pkNMt%2FNujPIdg0LfCjqNg9BU13G3Q5fzNjlQ3nCJZG9Qw96zQq1ijPAVv40ILRwv47iZpiJeQOYbWdhoK81xdEh%2FgMDvA14pAg%2BC7GuwHJl9Yl9BsqcaJGis6v5VSK8TjRsevEQIBOpLFRgdcR8Hn%2FRxQijW%2FvpL12%2BcVsfKLms4AzEtLVr0EFpEvudPz9xvgrz3WwvlvNLtAaQSqepMZLgGqcL%2FWL4uuk4HiNsl4djr3JHBOqr5fr5HFWxABkjhKLFK8n1O2jlmmJYPvFlPzEHb0w%3D%3D"
+}
+
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 http://34.101.224.206:8080/produkimg/malam/pelembab
@@ -142,4 +175,297 @@ http://34.101.224.206:8080/produkimg/malam/serum
         }
     ]
 }
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+http://34.101.224.206:8080/produkimg/malam/toner
+
+{
+    "files": [
+        {
+            "type": "image",
+            "name": "produkimg/malam/toner/1.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/toner/1.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=MPISqRrvGva%2BAOsdrYHPzY9yP6TagsFLfCJZ44eBK7ynV%2F9DK1%2FhTKflD%2F865Mnp3YANXlmt5%2BO8fpZSGAVg3zWG2K%2BtZ4XaUIMLeV14b5kbbhJO1%2FsIVl%2FU%2BP4krdv7yN30mPxUGP%2FESLkqAPnNa2BOeQams1%2Bd8P7olxuGKw%2BT4FGwSbvBojcNaDu9YeH%2FteWnS9bnLKSkXLZKMMS1KWAGR0lM19%2BoYTwp4aQQ0NN9yKrA84icNsspDMDGsmczetYIn2Uh1UaEIpcnrj4TsKX%2BwCKQ5PzUhSuzDbEMAJ4%2Bgu2YgWyaH%2FwHzUdoGWegM5Vb%2BnJfi4r%2F0kGqp%2BhP6g%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/malam/toner/1.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/toner/1.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=etsieFgjSeVDBV3skKisyjTMhPmFrrMhAfAPkTzMyaK4LxfnI3PhYen1MiCFjupW%2BBTUH9Jdik%2F%2Bs9KlOUvZDQ6affBYnitgOaUtHc9ms9fNudUD%2FzQ4xmI4QUfGU0d%2FZXnCR%2FfFb8q0nF%2B4m1pb3g4ZhpttcHeRHAAjd4UAf72O3FJjjsa6%2Fd3e40Y93UMZxniZS1HCHl%2F7f7iPJx5B9xgPfp3dlbfU9z3v%2FYpoGSqJcTXl9yEeM7FC1roWUxeHxrWBEQAq%2FJyA1y1btOsmiXfY%2BOmXlT1CZ92W%2FOdj3HHFts0NutvLWGY4qk%2Bmk6zpfYwELDMDn1vMWx3Yon6bUw%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "produkimg/malam/toner/2.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/toner/2.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=WZDR9H7TSvRvPbeZpeiJw7xhs3sUOuSHpcM8xPVbjsnLJMh1HNCnGIu0alpsKlWSg9qeBzx2EheWqsDvNa689roaUAQjVgVuxCR9ecZ6eo%2FyvTKGoBQPPEAJ7nLlnWBGKMbyYLevKDooQjLpRyOBYcZ%2B92EyuLQ4fKFIuWyPaidt3utvJBVIvUtGr8USw0BMj4LJU3Qrf4ZPbQuzqhaq7bbiJOCV36EZCpyIoBFZHyWkIl6MHYNuBgO%2FXjCOHzBrwpo8mGM4ktIdQdGw71xjnIO%2FTOH3HmthCLJnEh27TZPg3HwJ4tBDPFo76xswdaJP6nQnIXB%2BIgls2MphCGvWfA%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/malam/toner/2.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/toner/2.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=Z%2BoNbsGTXO0eFvHNpHGDRxGUJ4R%2BwR1z4HdVv4NkAdQmm%2FapaSb2tASuWfeNVCN023M7UqcM0UW8IKeGoF5Fx2BxbBxqypKMKlWmFnrqgO6e5bqW2JsYnCLklUwbVsWTWHSITB7MqZFSNvK%2Bk5KtE3CbwrPoNNavnY8aYXFU%2FRcOiGqwdDESCp6VVym%2F%2FWMS1xi3WhJRxPMUyWlHKN5kJZFuZsYr8KG%2Fy2su57YUSZCBNT5lBROffajWkWckYxVsL0IGwnsl2KVx7mQNa9BKw7TaSVKpsxWVhUn6PQGre6zGRXzSvRYOnvQ3BzAaVYeyR4GnsvbZXA8qRJzPFpDZrQ%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "produkimg/malam/toner/3.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/toner/3.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=h0qx4bIb7nNx5z6%2B67PxLj%2BXyKFGbPfB0rD5Y3%2BgKCd%2FYPeWFHyTaaRGgU2G2UxuqXwFbu296YrF3nhomG0y%2B%2F563ynipBpe8b93Uc87bmC06dP%2BN6hTL2ENVSImK6udWC8zhO3Bsq%2FKsV6y7LCePa6QGYrD7FrcXMfy70%2BplzqNyXnwrN7UjayMt5xBHBGaeDcOAL6%2FcZ5CeIgM7f%2BhZDYx182y93hKR27EwWoks8fVqUJYoCnS1fbuz%2BdF2Fntk440BLjtP1xlgCr2zGbZSsjOd0y90ZrWoaNHLRHTp2BVbOO6GieAbGsavRP4T6FUTp0GUuXaeZOeSqbl1iwXLA%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/malam/toner/3.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/toner/3.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=KkUxYmIYNdTb4FaMQv7XMDk5HtGgmRzeoNRdW1%2BH%2FtcrlJNywobUQIs5IKsnE2hraq3D%2BmJ1t7%2BDqrzSuo%2BnrOyA7mO%2BpqCx7zo0uR5w6N1sT1%2FI0kVC87lnC4N1pL8kgMQqawBrHcPezMXUVu4GQpg78lh2AvQAsgLYw97JMZQJnOY%2BMHBQPpboXi9tdQ6VLX%2FF9DqwwRUF4N1%2BFu%2BRRs8AO0R4JWWwExaod0OoH6LndZ9vjvmLvGXPqHnnbFy4GGM2wSl8jIk07dgpfuK6F2aemK4gUnpw%2BAIGfjg0ewRHxziLt4bq2pBzgsCLwUNcJ%2BgxADtc1jMVxo4J1IReEg%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "produkimg/malam/toner/4.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/toner/4.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=XLpQIlDyCz4iDvgpkRKzeUN%2FcvB0EMGbBRzjNPNKDyDTelRS1DrJV73m7rDy8EJtRA%2BT2ZceK9a1lY6dBdkTlJykNO8ucv5Jp%2FAChXefSSz0hh4qzUxaEYj0hRHvikY7hIy4rHm%2FllLedoMe3zV8KXqg3xltxti%2FwuP2NSQYzWCj%2FFJ3HTCrpAgM3e2SfcfM1doPJL2kiXMaeeewP14GDPCLDh%2FfxIBU%2BWP2zQtbnk3mQXzhDq3qLmKzEvLcgKcxLSinZlB9U%2BH3bvCcGGZZqVQZdSlyUL0jPdkRR7CDUX0U5pFUnISOSDczXw%2BBUDAg5mmgVuViD8O1HiqJpnTKBw%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/malam/toner/4.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/toner/4.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=WyhMWHjUwanFBXhgWLt9iDLHTOb3kFRp0%2BR2nC2YVjyHhnDhcmZ974dIsnuYumS0kFMP9BpyqTUCyxy%2BBy3RP%2F9J869UwXAz4F336PsqkyKFTo93zn1MpDmrnly1c2DpZ3%2Blw64AsNtKPXOFq09NCqmjAEDxa%2BUxl38S0OabMVVHocSrOJPJp6wmduItu%2Bga9Viqr5yGCTBSCgWNGB8S9kXccQSwQ3YDbuTeTImwDFPlCzKMA%2FNFwZhwIpCXUcEwbXJ1ozscGXdsWNK%2FOk%2B5cEMwwyAsmRmtJ0D%2BASzHuzlklvzKYunPoEmDyovrQehxv7QmQv6SnQSWGVZbsKfOyw%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "produkimg/malam/toner/5.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/toner/5.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=G%2B%2FaLtP64Dd%2Bvfl2mtOc23ciUMKAZ8Jgu9IfP6ub%2BXNkvJ9cOjDv%2Fn47Q%2Fd7PXWWkRxOU2Ueb6uPLeEx%2Fs6AAiKJEwVyhMKjqRu0VAuw3MC6AiotVKiXRi5g8OuB%2BYSkHbzoKWMWMQtSv8F10EBcG4ckgNuHiR5ZBkHV5oYpOEZVSZ8e6SnHUGpcg2PUQyG1wt%2BKZuCX%2F9N%2BhXdwo8zlzWnszxkYEK0v%2FY94nqEHhY2Wb%2FFyUnMSaPFPG1eZYTK56YodDpU05ji%2Bo2Vu0u0ozY9Szmbqpd%2FOYfoxXfyUeGaeRYd%2F7mH2rCqGixnVWlNVPPn8HPw7eqPwA%2FGXOjKKsA%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/malam/toner/5.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/toner/5.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=FjxXQs0vM0a%2B0J3WjzqKavh4LECJL%2FmI%2BaM0j%2BBdZZW14giP9U9Z0HObjdxH1LILMYLi2hxeBE%2FXijVP6JsL7HlDwzGQ1ImeU6ejDIjTwcKilX5D2%2FfKEaBA766C6YtiAsY8Cm5lTmftNGyfyVUqfi0QBMVrFqeSdTp5ka3mWKLrSfamftbS0BFPj1dJ3pIVvEYc3Pns7FrCnCHf%2FyN5ZxwdmCbqa6kIeQ6o6BnLSHlZHe9DV6mjvJ7qnPORHx67tWx8hUu4e1WoHvFciK11hu2VexaKgAqWJaBWmjdyXKYWJ%2BaOXXX3cg4yVol3e87K6qqVEVujm6gva9CW0SrW%2BQ%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "produkimg/malam/toner/6.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/toner/6.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=O3E3%2BEAikBBBAbEbKdBG2EyotLWawdemZQW0uB%2FsDQAOB37uJlT7sjSU6zwTFKssZ8TDNEIzHkKfRGS%2FR5O4LlTHd9VEDHdM7f5lp%2BdqL38tFDY%2BT3cyU7k9606d3UBoje7s%2FQuCA5LbBfdTWZoOAeDj2HPpIQe9CMbuuxy66B5UI1Qfj8ye%2BhG04QH8Hwq92FZxlOfxF9NUUfp47u8UZlYu6BLS7YpFfNHV9Ub9QHLUEWD4hxLoegI4pnKJTOVGjqPtdRblts7fKp9tDW8umCB4jssEwz4oeDU5rELbI4yktvBlhoOIFiIqf5OYTqO67j7FgglEDbdDeQ8ugOA5fQ%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/malam/toner/6.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/toner/6.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=gBRPjNbFswDzKPHzLawjCkAb2bqnE%2BcqariZoeMJglmtDtWGjJZVRZaHSHl5B07OSXmIR3fRivcEscnlB59HSNtxg7lB2iyAgAGBNnHX2m94IcADwNxwpD6G%2BCcws7HljZ5xiISSSIIz40T7RIVh3wuU11ZYtQUMX7he2yr%2FHpQ7X2ETNYWLoR87XrY%2FqjpcbZI3CUVmGGgqVQqeM04WW4yK8RVS%2BQ6KXMjOVQgc7Z8fQ2YmIpk9rngbiFWC3b%2BnCJVBMwulrdE2x5Nd0TzBrJXa68Van1MZSPWiiBBcPX49T6Ee0fZYZE7uuXpqvKnTtZ%2BsqEaMcdv8JnQCkbme9A%3D%3D"
+        }
+    ]
+}
+
+
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+http://34.101.224.206:8080/produkimg/pagi/toner
+
+{
+    "files": [
+        {
+            "type": "image",
+            "name": "produkimg/pagi/toner/1.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/toner/1.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=LUxFlfgg%2B38%2BMf%2FWUJ382t90YMENn0KidBcXiFNYjLQGI0i8MxPwE1EtAF5wU3f3Ad%2FJ3tvOpzy3I91%2Fp9KPN04UXVeR1kr6f2sZywiDny8FI1X6REZ6RcIRQ2Hs3IK%2FeXucijTLWlrOjm%2BhXO9Xc7yYHNEt3t5pHKkvoNvuyHoVMKulsY89JAL%2BdaOyIyqfCODATQ%2BuEr4xdRsSmeyE7ZfQEX%2FlTp4t%2F33FyZGJG6YoDDy8PhgYw7RuMjfl%2FgKtl6Y%2BtgGDIIZkVY44b7nKTlW%2F2nbet6UQiXLv%2F5u0%2F%2FKBOwwksvhum%2FGN3IiVgQCm%2Bb6syZHthgvUr63M%2F5slbA%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/pagi/toner/1.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/toner/1.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=PLynRReCvbXxCD9ujXdbXWFL%2B85MZLKUrfxiJQ1fwmulNVK2CZkcZODt32BcCLCZvVflFx6EcTFHK3efuQoK9IHUYXjN38kpezMMkG8JpzA5tiWgtiSrXY1XHSgqW5At9tCrhtKS4mpr0CyuW294yxz2hp66QdpYNe%2BKF%2FnwnpVVbgRBYfCLYIXiavZ95z4Z09P2%2BIe92V5c%2BRb%2F4N3sJ6DNyo321hFEnONrLn1NzoY1cSNoIKcwwiy8TgLchkGnxEbs0gp3rF45Z8%2FhRJlwcRndQJ7Ze9bfgzxOVoTcerk4rEz4M0zoUAJ1pUOq4a%2FHHty3KlRpQX6Ih3AGen8r7A%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "produkimg/pagi/toner/2.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/toner/2.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=DNniYBeZl6fQARZjeZzdcid08eZhB%2FxrYnx8X2RHD%2BAd%2BvuO2GJiMfuQMVA58ZTu5GkjHdFfBl0K2YmySCkpLWT2zqTdvtsn1c6LwWX4Z3cfPMU2zjwtW66Kef3Y6WhRVFuusPF3d9GEZiDABC%2BaSdrIO4pND0a26xLIzwPy8RmF4SlmjY8cihyoFbq8exB9KiiN0rb99aIzcnMrcJjgsUCa0aK2bL1O0EH5WT0Ph63rwgb3RR8noOYy9RQMbr3ouVh%2B4HPRIZHWyfyk%2B8p1yh5EomJfkBvRA%2BPVlBT1GTm6KZS46u9vKypJeUBqfMEIv0AijMOk4E6beWYLCLBASg%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/pagi/toner/2.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/toner/2.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=K2rFlza1YOpWjRsMjw2Ka9rX8MffLT8N8jHlQfP9IAAaab1L8rLcOfVYBpyJyrm0Vr%2B%2FfMEQtIKmwFPBxJztXyrL9hH178u8xTj3k5LsbF4ibHUxrhOC9qRZhcKVRHafGIQKr%2B1CDllsqvTMlFicesbREU8Y%2BzVuK75ccuG72dbdsyGVvdJOyq66aabmqDm%2BebqiV9IXH6kkHNB8U3G0ppYMG%2FExm66lsl9fMnZ8cRj9tJ40VdX2Y8dAOC06yALkvXN87cp7bTSw0pOThRmx2ftLkyjTcsBkk4OEMy3qrBS42sJu3yJRIy4BQcilTSfNdmRezCtWnWbw%2F9ByJUeeWQ%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "produkimg/pagi/toner/3.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/toner/3.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=Lf%2F0szAxZ3X8qTLcl5QNO3r%2BxlazWV%2FF45%2BXy1ec7t93KSQetAfJd4UWJYI0%2F1%2FtvlXEjvm83h8wSsNCZyaRF55jkl6evJ%2BsXdITWMYsxbw8DlfA2ozKac8L%2F7TkDzwFPlY8IDQFkc2hBBSdX44HH1gZ8QwPBHMRhuYsk4dMPQ2GRj6CRX26Uf36GmMmUxnvCekK6HbZP34TrlFvlh7lrj7thAG9kMoFY9H3oEchLU0RGURwk%2BQs23ySAb6xQMAF8qX6HV0mjdKf0aXqHRVA5hj4m8Q%2BN%2Fo%2FkJAQK4Np0azTE47IhoUxEA5or7BwKNaoE39pe2jcMuzNi6yV%2Fi3FEg%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/pagi/toner/3.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/toner/3.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=ax1cq5PQFa6GWt0V3OwEX76WLP2FGwu6LM1KByl5qqN1Mdftd%2Bt6ZOpEwdJuVNMo6wWkzRGQUtupCqvZ3AxSCYxTjKNFBK5%2FrKV%2FMvHtv8JcRF3SfV4Fg6Ht8CLCZTe2icdeInyq4fvcl%2FPEoflFEJS1JfMNouAivR2lUWwW6v5SY2xI10jlEarFGl85CavkQrc%2BkP4EShbR5iGHrHwn%2BQJltLEmIGyoORjBEua%2FKeT4Ms16rBiN7Q7AEVoyfRal4tJ5RiXAJjifK0B42SrJs3oAAMrBLVvY8SHuUF8dAVzjDmXhKZ%2FWV9%2BIPQC3eo0569QrBUjudmSdrXTcINuCxQ%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "produkimg/pagi/toner/4.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/toner/4.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=b2r8aBCFw55IgQ94VMq18AYoWFGES26ujT9gCmhpn6le%2ByE8g6tk5lDLkoIEdm%2By7FcNo9Oi6ZbxWerPKJcRR0yK3WGvteRAztOG7fYFfhYXa2ebhM%2Bc%2FlUdM%2BFHG1lCiCG4r4FfTUYZf6E1VO71aRte1RSW6V4XVnaFiiamPvcKOUd9u3%2FcyDeoVgocTUCbaqJVm8IRG6vnvQrX2rP%2Fvcw%2FFaGVu5l3NnrTre19yqXiF6g2Q%2FmaE08xg5h4IQoMJHVsOUl5yjKzifnveZu9G6czUG70t8nsoopEmJP7cT1AfdPv2c8n9pqQCaXr%2FSQNfbKiS3k1ocHYm7sv60Gn0w%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/pagi/toner/4.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/toner/4.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=F7iPQH0zO8V6Gf9ooMDgq38%2F7oxK%2FtoUaVA%2F%2FPd0nVR3Ea0Dui5VghmdTqxXJKX8s6l4G8xANIYBDvQO%2Buzuxln3BiwqBweE6YaO1C51Kaa8ms0CT7fId7UJ9%2FDr5Oaab1Ooy4gpZqWK97MqkD%2Frpeiwu%2BxrVDtXz%2FVQdUQ%2BGqYM1GCdn8S3VWvWVafTvaQk%2FaUaGVnl1NVKOJhLiMkILwvn3Gv3qDcCYKQW%2FHYg95Dz30MJ1P9Ftc6plFNXmOzeoVsQnQjz%2BbIrGvlDoIFCPOPRHYBqBDlcLE0KtMkcsNuP%2FWfkFh5WsPJeF80eJKdFpeC7Da4dRZJC10X7u8aROw%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "produkimg/pagi/toner/5.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/toner/5.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=qiCQYpZnk1PFrOs7Eb985lv9glHW1MUbzVI%2BeuuS9OvvoE6yoSxWZ0CpWKabIJUMCt%2F4VrybmWvbxoLw0%2FMQiY61GsIR6oVDY2G8uJl%2B%2BqIm95XNYvGAeoUtilWMF6TuF13n1kqYRybrK957d%2Fys7PhWld64KOv6nG6PeX0EM7BvVn%2FURcJMLRfqt2q8dAjBHFCLgLuS%2BqFJVEl858X%2F%2BB67Jy3c25zt5reYFK9hBjFMLhMr4%2Fye4scT2TiM1jYW%2FjpznRleK0fmgtz4hmSeB2BGu91jV%2FTxqBZgRjwGxEBPC2kbKCyoZj5gAyoiIh6S9TH3O9VCXpIXYhCnQc0oKA%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/pagi/toner/5.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/toner/5.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=JwheQRS%2BXFXGCdE1FVv3bUmNQFRbUWfAWJfmoXlfi8Ic3XtURSd%2Ftmnxq1SsjG%2FmR4VuMs5YkAZdUc6u3haW8bnnXdfKP8PFusYt3r8JxL99cpcTo%2FQJ3RF7ZEZmFyfswp9y2dGbVeQY1NqihpNmHD4mknoo5sYvUMho%2FrDYAoEPrt5zZ0LgfN1nk%2FxgFzc0mG7MTJApul0gmDY2nrbEmbrVQ0JYLe0XxlGEhfi8ChSjmZ3uI5xs6qJDWLwRYUTYAYKY0UdKzU%2Bhq2Hm2y3Taq5KiVMguHupLuWmN2s8Wm4NZUWaIQnEAw1HYK0KjuMFrEKnlveVgnIKrOR15DuVGw%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "produkimg/pagi/toner/6.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/toner/6.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=TV3%2FfA%2FgPL0NXOZ8H%2F3L6AdjerHOCn0kTW2vQNueYH8V7rQAZIuLIFeDHSn9dJIGgfcvJ3bfmupRGLQorDIsXQbG8lxNXw6oYeXUlXpda1RQq2N7kbwi0nie9llWUOpJnx4pQ6Q6uGCKOAmpq0TMqGWj%2Fb6f6UFEbCI0uiuvSbWStXRBSmaB6gqL2tB2ojB0Sq1aNjDdkRa4UyKdjeYpmU1k2EHc2jcg1om2K2CuCIhHD36VGgPTSWAHAlMLVqu9IreXpm78REWE9VJG%2BCWtjV75PGFi8mERe3zVeEidbu00HDw0dOruQ93bmBC%2BbYc9ZCWXAUjYk1d1cZs69YLrKA%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/pagi/toner/6.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/toner/6.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=gKfSuHbkgpGAiuGtEGTBOp6wWJffA10NRC6r7xQR3tCfNooqyhGj3HgJ7V2MZPrVgWLx0k7A1zHII8FWXydUD%2BTTt4pjiRQbiZPTf16MUNmJ4Ufy1wzv87ePydyV%2FrF%2BkvVFRq6qApXlTFAOBZIl3e5pMmL1cS0F%2F9sM12%2FQ8h3qLjsN0IT9DW84hOFs1aAS4KhoKYO4w4DeM68AJmPIx5RdFb2bMajbI0P6EHBpjWnvxE0BNUqgIuOwZz7EQu%2BQFWk3jU4Gwc1KRI%2Fz5bg%2BS%2F1H0fERJDIgdgbyDCj2Sf02SgLmrNxlEepOEh45JjSFop%2FmpgBKuBav1j0Yp21BKQ%3D%3D"
+        }
+    ]
+}
+
+
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+http://34.101.224.206:8080/produkimg/pagi/serum
+
+{
+    "files": [
+        {
+            "type": "image",
+            "name": "produkimg/pagi/serum/1.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/serum/1.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=qUWmEzGkwHLOWF3QWX3jYfeenzeWFC%2BW942%2BCc2jlq%2Bv9yO56yowqlI6kZQy31n2gZnG7MRpFHz4wSRN5SJOOUwVQ32uCtTZN1U0Lwl%2F78hUOvkHwMFrfrISaLccYNfyz01qooW4pgP0wMvYM8AUnG7x43Mh%2BvPekeo7XbkC2ZIMivPxj7zS6NO2xF3Mbndy%2Bd18%2F4SgFu4qbfTHHs76ennh%2B0x2VzB2N4CMYt4VjnVwnSX%2Fan00IhJWgYcj59uS1IsGjhFPEASYouQRbwn1HUlE2t15osGsCcG5Pdlod4UOOCpWY9EupM9RKayKSsx9lrC3U41iK9kZCEWu%2BJLNVw%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/pagi/serum/1.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/serum/1.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=FsAMvvh7EKFHft17YfrwAEmUvTe3kRNzUKKGAgJ0LMSSAP9ARm1BPBbPklou5Xc42tQNQh1vY%2BSEtb0BxQ5nP%2BTN77OP1fANCrk7yUC8GqxJQ9dq2sfd8QjD%2BTnmoMRtVJPkS%2BIK48wq4gr6GNtEotidRnMc7F2d4mPPljHGcOg9vzpzgvGPq6l3H6GF%2Bo7lps%2F%2BKQ1pS5upoLlJYd9vifFFUoHF3QLQRA%2Fbl2Xk3C44IrWSR5CnBipe0JNyoBdrjb2s8StyGRtV%2Beg%2FuXRuZMXoGZXykuYEuoDPkdM23d1x4IHSZFQij6G9E64UgtgHQaYFDiNo2arisJHbMD7mlQ%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "produkimg/pagi/serum/2.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/serum/2.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=jCzXAUF9w5xwdDqd%2FnAWGvV8vQvtWbcfe4qbpcCkYJa3Fxm80z6ZYyFkt4fjuPwCy5q8VJZvbr%2FZEUQ5GHFxFqcUbqY7sc4kErMavz04SYObVCTRCq5Q2tvYNy3Q8H4LPnDw%2FHAYy%2BWlgVCrSLH9TnpLIefDrlLFA9BD4o48isyutUg64tK2QTo66esa8pzz%2B6GlNBzssmHUao9H4rxs1Q9xs9nACqnh0LAtsVu4ntK2QOn5v13g0GEXjC%2FllkVKtsb%2FR71gOrWtSQMzXjwcIHmDeh%2Bo5biofT59hzd6g%2BZ4uAP2J9nZcmU15DtK3XpXOb6omiTc7PWHu2nJtLWaQw%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/pagi/serum/2.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/serum/2.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=iWKXcp0OhJozdjI0lQzJegYAOuvY%2BEUu17fCdX5u0s6JJy9c2RtIg0gvGbMkEs07NhP7tn3ktmoeHQGj5%2FsQiGJTcyJe0E0mDAGo9sp4cILTMw8id7SmORJPMXjb6bGsWSDvTOj5LhcDgUHl3c%2BiA4mj8KcRzXm78RaddlHWID0XuzCsSus%2FYPB%2FqqNqRXgZwnHzydXXqMot2sMh9llougWM%2F3wyeG62pbQm9yiiKEewuWK4Ry1fz6CiCOZUwa0exb57tiGCrf%2BzX3NemHigy9E0v0qSrwR%2Bn9LqLqHcgZihRkwbZTJ7%2F8gjajN84I2pNV4BV4ND5GRXW8FYzfu2xQ%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "produkimg/pagi/serum/3.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/serum/3.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=ahdFZwoYzyA1hQakpjKWA3jhvayYWIoO3r1C9kj6HewQcGhrKSxK1TUuXahJxjnF8QeXdpKABn4olzyLQxGK72%2BolDuPoad0khj%2F%2FW%2B2g58bR2Dg4tD4kKSz3v7OhoZl%2BuHFyrm%2BPhkmZHGhr7iROAuC4AFEZZ9OVcfJOBfFidCNzg6OWDhMwbvGZz1usuQzeA%2BFASFobAiC%2FqMHIVb1f6ghmk%2B7KWhsFyaY%2Bblt%2BzfpqxrCRRk%2F00JvTCEQCZKrkBRv4skwPXE%2Fxgx15YOOaSxTRmCQEdwTNIfMqCxcEn2rWZtZhJR8uYR%2BMWPZABdCQUC2%2F5j0wuSIh27jH%2BWJGA%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/pagi/serum/3.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/serum/3.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=iuP8va3LWWIZjdZmtaZ2T48K4kU8TKWcjzjip417osf2Xk6c5oXvaGU8MHvJp8n7Ke%2FogxpY9HTpGEFDzjVcpNSPKdUjQvNgt1lX98XE9zOtj95uzcK85lbEl14YBdQ2sXQuOJCHEAjEueHoO4NNv2A5ub%2Bc%2BZWFcfqP5mhHBX3XQcTtW3k%2BQUYjv9ZKzAORgp%2F1mnVhQVaBPWf0gBYE3Q1RrkjCi2YVzm5LeZ17d%2FFNjr41MlCrAs1WN%2BsSVWJVJTwNCZE2bgZl9Bv3BDGwZMhSy3R1xyauJAlErurXkYTzE2rVfc0xkEGJOsPh5hpnilK5agFq5SxlHvbyCplm3w%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "produkimg/pagi/serum/4.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/serum/4.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=ErXxMZpHsoC7UBX%2BhVg6iszNRDHqwgGIsBZkcp%2FmyEO8Z5F0Xmh0Tmu9x7EYwpy4l4ZeJVIZJQ4n2ie8QrCKoXvN%2FmnQ61QffGeiJuLMe3YELBiV7BwasO4r3N41QEGH5J8q5HGpnxTVKZ%2BL6EaOxfdsmgoeXrTSVj7XAyGRlJM3lULkrDmz4zFWwYIh1TMXxL4YZERvCD6qXn%2BzV%2BU%2Bkv3D9%2F1r%2FBb80DHHi1qvMf5ARgnaz%2BeN4QFfNWBuHt5kcTTtF0pjSayP3M%2FM2f7qY0O9WlEvbHdIVWs1P0ITEwzB2ec9Vd9tJm68CYekkVh4zbsZXwsIVSX5EvvrgJRtBA%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/pagi/serum/4.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/serum/4.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=K0ZfCcvxC7VWSbtHPiCMAinOg1%2FSBk1ueEZsQTKj%2B1f%2FeNFv1e5V9hAr8JTDoc9ucJaoK1oCxMNBnoFS34WlaT8Bbp1WOGIL%2BW03N3i0Xf1okuBFh3ErQUanpkEx7kxSFT0yy2CSkksdw4SK7N%2FgePmTfY%2FD3cAVeWK0JwiShoHTg83UxDxUVE0CONJUNrRFfwsqCfjC9oh3u8fsWFtC2o9BL4tn34I6T%2BkqiisR6dkXbzYe2P70ptrda%2FsN%2FP7GTBkN438qzejUwuS0GqPopFCdGQKag4KMqUiILvAoxvaFT0oW1ZNOjeRyWL6WtQTDjSH0ZomFA0b3Vm8EVPe18A%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "produkimg/pagi/serum/5.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/serum/5.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=N28R6mzdh8mPYoODO9Iar%2BqDu64Yj5Sez%2FPL6NN2IgpGbmE044LgpMqmIaLk3F2vg8XwTArn%2FEGtZDxUN67Mf0Odoe1tdtKx3hV2NzmRRiv8A0EymQBLCBWmsQo8m1%2Fqn0oW3Ff6MbMCApZ2xdrv%2FnnUYDC4Ia9z2Tez8kiHJCDkxqilw8b8u5XK4VXR032R3%2F%2BlmY3CXJ%2B0oaTRb0XZ1JwuZfcDbRB8dlZddHaCZ%2BhTudWcoVu0LBhZK8A0V8QnOGoKQihLSNwiO8UuJTaHI9w%2BbdkXahPF6zbpsqfM5N9fjRLaI6vSraZnE%2FKPBKoog9mFRcJWKFuvJ7DqIjPVPw%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/pagi/serum/5.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/serum/5.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=q9SQ%2FJzJJ5Od0eNP2HV1SF0WFJrE3fKCbEXkyjOPOBfLvE5rpWcgamgM9gKIq7sJP8FFOmbrCnRRihgJqVSiN8pOInYXLQ7z8ichcLRsDwQiCLN17s50tVwp6zrq%2B3N5mwKP5evjKPvr3AwcViucLLTizrkPdMhx4xVG6Pp%2BAiUSPqi9OHO3Z5%2F60WTKRn0VDcsrtUk9UNeVKAaAk4poVzprYfEOOcqc6DgTehNSAx8qa1dmMxUNRZ7w41mGfuaFX6HRcaJmz0p9zVQpe34y1XYEpS1ifh%2FkyDaAxfqE7F4uawRqXksuguHxfTdwkGgWLhDxM75rfCtAfnOsJk9GFw%3D%3D"
+        }
+    ]
+}
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+http://34.101.224.206:8080/produkimg/pagi/sunscreen
+
+{
+    "files": [
+        {
+            "type": "image",
+            "name": "produkimg/pagi/sunscreen/1.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/sunscreen/1.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=a4T58VUAdhOrF5ipAyuIf%2FI2Q1Y4BnMomEO7vJ7YhMtvCYHNm6ek4JmHuZ3X9XRslVaAXB65bz6l3RlI2Z3EEXDsEcORdM1im0ehwn4QZqk61jicvR99pezP0d7rMnFywCFMKZhpJC%2B81qoH1pFT0T08lPmeoVYJnAJquLy6Mi%2BtRsKa6t0OubgrqsCVxT8NPl4dNdBVHgwy7eFf9Ll7chClnnuEHxyjm7uu5q6jFNFcA79wT%2BZsyPbQAZbfsu0L%2BICz4FfJ6ChRZLbhNDxhY4b1UnVmIyqFuenOcxeNC%2FxqI4VfYPOBAB9KoINAbbmM2bHGiPmEWHEUIaYk6K7kCw%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/pagi/sunscreen/1.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/sunscreen/1.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=OlNJz%2FjqP5b4bdotaJTRiTHuVvldt0HawhrQ5WyiraFGjsVxysiJdk137J%2BSp6loK1emNsML5I4XIVMYzcVaLa5rBBK98cRV9DoYUW%2FQCYF9JhMtvlZSNXUUCYFUnvSM7rcWJVoCY7%2BUyxtpLMveiUGSt2JEwHvl81XfBrgDFIv8uYODkK1xk4kS6LfqNUJJfAKjl2ee6fxB%2FVIKe05TLcTJUwm7Hu68P3W9ksCvhAkWD6ky%2Bkl%2FdgIWUfHgFBTTsd5w1XpHTEwoU0aqiB76wKXkhYkPv8SYRCpxYsWfB4kJxexebVos1YaopjRCKTKeOiyIE418llhcAQD0O3tyNg%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "produkimg/pagi/sunscreen/2.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/sunscreen/2.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=pDKmOzslpW%2FVmwxmgAiqjpQ%2F3nvtOKbV3fzrhX437MKUtaTkS0%2Fn%2BRKOxPg1JDcZskG7h5Tdj9UwIMm4x0%2FDYmJt77OqhAhDjUKk2u%2FgDCJkFRUBqMMpAyHBbD0%2BYo2%2BwmiBlAdmCwp1vhy%2F2PbQFuCVAyz%2B6SMHIL9uX9lZRrCm%2Fdk%2BGFQGEiehJODfQF1GhI0SEBo5bCOWZ4IoOGTQgletuxZ7oMiTKuPwFtp6EcrnLjrZe1ZByuktE7tdFA1nvhOHiJRzhle4zHYpkxdtWCV88ptHl3KjGjg8P%2B6TXIQHrySDMUS2xgXlfyCEIb9JfO7tys5dB9dadkCqt60SFw%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/pagi/sunscreen/2.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/sunscreen/2.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=W7MMUyHdE627r1quBeW9TwOnPX6TuiBiPiRTA4K5%2BtDn00mIAx%2BGCey3TrpO47d4SQCBiLgd%2FpSwmuSyJmu%2FA%2BqLuTW9liTFPS3reeayZP3MfKoozlIWx%2FHxcKCmTR4gEJZlV1VLa7G%2BpSCBdB3agWn2uJm791UiXO1bACm%2F1YgHKGRsm7u7v9mos5gFNKHBRy5ZMIlRM1lBFYBXWYlSv9%2BIhfOKUK%2Fo0bzfGIfRYXD72ilG26yQvEWMHQedI%2F7EDKHSESs0HcCBtxrKp6JsLLq6myQKJnYSdfFhZ91NFtQVRDWL8Ad2H8zK4W0oi%2BzytP63RpKCuwD6VCIcu1Ljfw%3D%3D"
+        }
+    ]
+}
+
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+http://34.101.224.206:8080/produkimg/pagi/facialwash
+
+{
+    "files": [
+        {
+            "type": "image",
+            "name": "produkimg/pagi/facialwash/1.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/facialwash/1.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=fi0WBIz2xs9RJ3zXFCDN0xKFTMyvNRmYFpaHLSqp5eJs2me1YNM44WNE8AG5%2Fl%2BphujQ%2BjSMlVuvdTAl1s%2BKiCS4Kok4Sdmr0TJGVQ2rIbZYojdntNqkSi7sH7ZAt5QL0c2b5Dd73ECjimoZrIdVaW1e5PnNE8VSZfDEuLPiqbNAEsNCDTb8Sc%2F%2FGwXOj0YC9j8GJ79Po5QZnpDdMGV2m9UcUUVOK9c1oiqefkSqLK0KCBzOfrvBpUI8WwPPxlTGJszzD3omkXYBt2UANIHe0oPC1yNF0kEIwm6P5cgxzNt4g8efekchPC3habuqK69Dl8xrCpJroVP1uCD5KbRt3g%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/pagi/facialwash/1.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/facialwash/1.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=npyoNtFeYhBlTBgV%2Fz4kHmfF%2FKfKqTA3SXE%2BE1sf4T16vHEay15IEL1xfVXGC3ck24UZEf4UPpkz7TfyZZUpDfzJ9mVJa%2FIYLd%2B8%2FbkvMSHT1N0MLy7lV0%2BQMOVvY5mZ2kJBJattaETZM6Tz9%2BCljr8B5UhjRQJ3qpuRjSPv9x%2FQPUloGaU6ZIC3o7uE0m0yqtpLGuty69IsuciAAqdx58uSxGL5fgv6xdEsll%2Fo9UHt8odLgyKhp3BDu0H620KDeawAJcbpb8uwwbUt8KJOZ0cMzsFgFkvy5%2BIGxTArUixq%2Bpb4Mov41cjwBmbQzI6VHWGuX9ry8XvdECyJdPhQNA%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "produkimg/pagi/facialwash/2.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/facialwash/2.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=VpaZyHoFCm94fHX6J%2BrkVP1tcbGN1ZVAPIlTzblyHUgW2LX9oGJV9WPlZtaqqHjv9U3d4d9BEj440vP%2BkXhzju1Bf4nMYJJrYGQf2%2FX2oZPLR0kZMvRRxRePcELfcKv2c2lIxZS4RlfLU74jfrZpugxDizmj2SWrx6Z6AHMA0mN7eKshMN2XI0iUidhfqvfAooSXFmljpTonw6irB%2Bu0OK4Ybq0qD68QMJpw49U%2Bpp9u2%2F5WY7J5hzMxHJq6qPCTyaR9hsuVBOFOAg8BZGLXjD82bTYTc953x63RD6iBY5%2Fdar9aK5AJ16JH6LJEBLf%2FD6pjQIp26x%2F846ALTOGiUA%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/pagi/facialwash/2.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/facialwash/2.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=eeMa%2BVzyqaIYG9KyjapomLiiHpgb6GF7u9teicwLL7C2u8Te34rqUStTSVrlf1W5BaQamUp9HKKyDSrBJfsg%2F4I9hezVns479J1F1OZwHucj6t02g3MxEJHhD4FkhTmUoJ4uFzs8WNy9oyQx00a5LBPrFDKV1o8SYNewOUPBcx%2FPN%2FYwzy8VDguCPpm336hwOBtBLGio6b2Ll%2FmrA3sjFMo0jbjwxTreMzrb6qIu%2BhQcXFTrlPuGYDf7f0zxUR7AP1M6VrFT%2BtpPLZF5gTpsfjwIuxledDkNm7uOR%2FN5zBxrxto%2FxnrEXg2SzBfzjYW9jy4GvRRK6KjygXS1ovTWvw%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "produkimg/pagi/facialwash/3.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/facialwash/3.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=fCeY%2FBv9mupXdcdUphN%2FLiQgAWTyrFgbm7THaG4VZKbF3zc5bY%2FBXgi7ntkDZIisKQdtlg%2FGwAKPo5Fj0FIYnpwlVAGNR%2FuaRazUZ5dVF0OIgcffDQEmGQBtnO7pf8B2rPFGjjgXZZZ5UbrApSD4Gv2RTqCpucUUMudOapEsgOIGej4DiWDTrdBI1dzS%2BUnqvybRSokos9ke0S6WvYRMfP5c%2BYfsXfxElkxlCZm02nWiuYCZSZgV93CChotpHCy0jHhaNA7r7qhbigsAqbgxXY3iQTJG9M1iPPY8c1Ecbyok0WuSelGXU3GjHFrCM%2FrNrGQUT7%2B49r5yDNPzhpYvvA%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/pagi/facialwash/3.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/facialwash/3.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=l%2Bfv%2F4pWuvIQf%2FPtVUTBx8%2F5z2Brrrry0IVoHaBxkjzF8rnJ39d3d2wzzKlgtuqDmLAkG%2FRf0WhxTVWrj3V0dEYO%2FqU%2BXufBpgD0gJVHdNyZcHHvk8NouY3CrtzftM1nKdturg8s60cMTIOlu%2BZWdjydgflcpTx1Qp7l8ADs7nMRjCOge8%2F0D3NRZa%2FX4PdlKeq3h%2F4MAkB9JBno83%2F6lOfanpw5g11AVoqO14a%2FxG38INUsRQp3AWj%2FLOh%2BTwZ2FsAJmMIQE2JlaOPoKKC4duYZPeqa%2FqsWvMrcVxgCUNVNHJueEnlpaVWmCP9TYRDog%2FRN54AJdUhPkqICc63c3A%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "produkimg/pagi/facialwash/4.png",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/facialwash/4.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=RbMxKZvfk48x%2BCZTO5uYdAaEEcJvSmKhXQ1aJ3oKq8ZRKfaA64SjQRaR1tkohP8RG5qXl1uCpS4T6pHIcakrV1RosOzq93msAspN9d5dmlxKpHBokni%2B%2BHZZlFz7tyXe45bqdD1O4pPbkuW2%2FZRxrbOYCQ15T5ceTg2c9RHU1jJbnqCHODYE1l2%2F%2Bk%2FGjK56o%2BEP%2BvK4aB82PhTuR8u3EwlSANip8id6xEaLJ4poEY73oT6f8W6ABeTa35FzjsCbR6zVWZg%2BbnRfAwHrnpAnqxeU5pf2zp1%2FkWC48Y9OkwtGzTzgIPjsFGcT9y6DZdyJEBc0W2KUTjZmPVXnbEa8Gg%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "produkimg/pagi/facialwash/4.txt",
+            "url": "https://storage.googleapis.com/skincam/produkimg/pagi/facialwash/4.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=HiiF8TQWYju42xkzrMxvEUZqc%2Fqwr%2BFSWVCkl9ctjfnG0bI3AfJdK%2FV9TmwBX3dyZ0OXcPiZFhEoWjUrf5gy%2F%2FPyJhgepPLmYehiKfUsydDHdTjNwIVtQ7BKM3NHtPvEAAiEpyNpCcujNWj2lyoteOBLS%2BSQbYdEbpSw477cizgJZ7vyQEvzhUH9f6Ja2yaw1Z73Nd2PEMOv3924I3hKTtNRypg9YQ9gjLRm4djhlNpUNASwmSUlCXsjDbUdTYE4y4t3p9p1IGQkV8cg%2FzBxzzeFQgl0J7xiv40UnCg98nFhzG%2BwAdOocakGB%2FzbMFkFro3HpRFz1CveX%2FnakpGocQ%3D%3D"
+        }
+    ]
+}
+
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
 
