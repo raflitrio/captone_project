@@ -454,7 +454,180 @@ http://34.101.224.206:8080/produkimg/pagi/facialwash
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 http://localhost:8080/allpagi
 
-
+{
+    "files": [
+        {
+            "type": "image",
+            "name": "10% Niacinamide + Moisture Sabi Beet Max Brightening Serum",
+            "url": "https://storage.googleapis.com/skincam/allpagi/10%25%20Niacinamide%20%2B%20Moisture%20Sabi%20Beet%20Max%20Brightening%20Serum.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=MzOoRMbIybAgAdnzyhkWm%2BkdovUdQvo4ewO9mzSu4BPUQJxGarm2Gpm5ZSxq9tsvts0Ls46JJWgrClGCzVHNPrlILNFusErqqMwg9m1Ypeb49%2B3OxFlqdkRJ2DHtS6enYNTeqXVM5evMXhDQXZcJ5sVA7qZF2UEmcGiW%2BbXirR8gJ8YA%2BLgWNvcut2U%2BcCfZkAJqzwUxycf%2BeQoTnJCRFvc1msozDnsbWfi5c5Af1kS1Vqb2fmHCWUqQiMtCd6LIx%2Fh6eIed39rdQUJBBRNjOi6NS95V9dBsW4wP%2F2UvwhXpF%2FSEI2W6uY8OQVoQsoEcSQ4cU6Jjx6IYs4a9MPxYBg%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "10% Niacinamide + Moisture Sabi Beet Max Brightening Serum",
+            "url": "https://storage.googleapis.com/skincam/allpagi/10%25%20Niacinamide%20%2B%20Moisture%20Sabi%20Beet%20Max%20Brightening%20Serum.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=eTkO7Ke1CK3tx05eKjVFr1zk55fb3VYHMJ6r%2FkgUCea25lGooOrKvTatHnVgTYNP9oPnOs0cXkJrnVH%2F37JSUJqxzaM89WRxwu7LDQY%2Fot3X4bwfGj9vYDJIpPD04Es1C9DVD1JDjpCCoSiQtLa5KvMGDhShq9UVgXVkhxadB9iui3%2Ba41zixs648yfcGNJa1BB5J6yaLgMQiMozEqJ6ewBSmihVxHH%2FzNswtidyWpC0NfqcaoJtm0%2BZ1rSgrLIUXilKN7DojKpOMuCg4MDA1Pk2X6O0IwGRDT4EEZy8PG%2F54LGIQmYANSP8N6S7RWTUmDHzwSJwvc9mviAdR8bpyQ%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "5% Niacinamide + Moisture Sabi Beet Serum",
+            "url": "https://storage.googleapis.com/skincam/allpagi/5%25%20Niacinamide%20%2B%20Moisture%20Sabi%20Beet%20Serum.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=ZA5t%2BP8WH3lNUq3pj3TFdhHxR3AueMuBi%2B1WqVWu%2B12ohbxqYVE9G%2BqOC%2FI5o08Vcl3uRMRX2R9Xu5NHh6aFtu0aaDivGKmh%2BRH9H6wjT0L7TZ61hJKdEFkF5UAgb6nyJH9R0BuA6XzM38DU2UDNs8hqQfY%2BDby0p5mGY3reYh3j5Lc7q9lL357Wn%2FPSoLJGxqNE%2FxkrrGtiQC%2F6hKK%2BnK29io9eaXb%2F1zZzP%2B9yKbLPJvSROqLsbIN1HChCRoOvARI4M%2FgvuUQki7N5ns9ax2bCUnNRrok0ZhF3HuKThywt0FY%2BIfID9rMmgLa60X%2FSSttJNSEWVWOJEsyAovkYag%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "5% Niacinamide + Moisture Sabi Beet Serum",
+            "url": "https://storage.googleapis.com/skincam/allpagi/5%25%20Niacinamide%20%2B%20Moisture%20Sabi%20Beet%20Serum.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=kz77ZkLx9r%2FNU8DECekYDfIum8zLtA699FZEWuNtnXWQksxV1Wylht%2FB2rVxaNsXNQczPmGAvgGWHIK1hvUYmEpWO1%2FrZsst4iz7OrtNuUWY5KxANX1V%2FOdp%2Bwl3AYkWP7uV%2BFkqE10SGqXmIoa7%2B%2FLkzLhZ7mbX7rKLMmW1YF2mbO908%2FmKRL5gwlNFZBhuwRolJxcwYKSF%2BcBR31j70lZ3Yd1NRIGHgU09ok5MVh3z1%2FRoqlhZzWys7mFM%2FsIEVNurh8HmkppJfBidXFCIXdMszZA0bRmj4zdkpLYrtWhJSY1ZV5FB90lQi%2BdVW%2Bb4iQvJWRJgpVDNm3aLZLQXkw%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "5% Niacinamide Barrier Serum",
+            "url": "https://storage.googleapis.com/skincam/allpagi/5%25%20Niacinamide%20Barrier%20Serum.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=Csl7EeinRkGhyJX8m4AfQoRA%2BKEhEWNJ8jmm9ihXEnBPY%2BlWZy1yIMBPoqie7ZyWYpg5JE%2BFmNISWU8lDH3bdTVXqxhC1BMvEGWAM6zL5r70CqdN%2BO0jSoOHHCnlpDL%2BqsREKCMtVbBDMFtbYyH7VXCTgG7umit05%2BRD7tIglfe4vem%2Bpaqs%2BRa1frLRC0Au6Wclqp2xeWJWQqj%2FpvmUZrtq3rpYB1e1xUB4pUDTcxr2sEWf4JO1QZIbK9LkWTe1aGQdcyrybxTDQISgRdTpBCiyCyzY30Oj5B9Sp57r4HedJ2maYkj8No%2FHFg3AuonVFiEWCtfvQz5GAliCKTjRmQ%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "5% Niacinamide Barrier Serum",
+            "url": "https://storage.googleapis.com/skincam/allpagi/5%25%20Niacinamide%20Barrier%20Serum.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=h85w%2BdIfjfjwEj9AWeUm%2FV%2F77pLbRS0bZoxO2yucx0CtslOCoNAJPNoCwNxQBHaA2xxVPl2yIf%2B6mi8V%2F9Ru1S1gGJ3QfgOoQs%2FxPiH4tXRwn3pghzD3hiCh9Pv7LNA6soMJLBQXcnX04MFBLKO7hU354q6BKTP6Uoq3JOp9fCpp8bFhqP8%2BacUxQh2gEQLVG6cRwRUtnVmiN75N7e61py3xSUKIOwDHBt6R3gH1WFPPJGof44Q3EzMTW7zriOt3t%2Fqlf9062qlMNFLl8IUqKZS6D%2FSEgIgfr4PGwrtFjJ4TS%2BjoHS86BLqEZBf6RibjtbsbXyr2u6K7juhH2aHEwg%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "Acne Facial Wash",
+            "url": "https://storage.googleapis.com/skincam/allpagi/Acne%20Facial%20Wash.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=EN8WiI1AtE8Gs9PbRIZ15mBD0LXuWtfY5E47X3GP%2BV0GWsSj%2Fi9%2FSKINpuw0hIBzu%2FtuSFj3dNatT7rSGkvXFgpdbXPnPa4RdTn4k4Id3JY%2FwExTovkGoFZ8HktJsZmwlZBBG1VmC8LinqE%2FUSI4uDm1liFCpJP5AZC1MRfTeBaQykrB2xuyCF%2B3tg2J%2FSwDVhbQifOIEMfaromSqL5VkRtZVRXU6tuqPYC6PDO2s%2B32vWtR8qpQDxVOyt7UtGRCOg6yFABNwN%2BOTf3Zn64Ewl2LJEirGDgAFGZKtDs4k2E67v9KnGHSlbvwQ8rsicB1rgp3QsBPDOVbIEtwET4Qew%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "Acne Facial Wash",
+            "url": "https://storage.googleapis.com/skincam/allpagi/Acne%20Facial%20Wash.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=kWcsHmMBx46ZcUB%2BAlvv8JxQvNt9O8hWhNy0Hd8uebMwgLsBvSd956fazjEXl%2BL6VRXc17p%2Fufbi%2FoYTQ4xGbJMKwGMdogU5TJtJTHNn%2F6Rl9cV9Ni5AkbbIpQKSt%2BB13DD9s%2B8K8HLH0tF6BKhl7CWS0Hg6BnfgSobIi8Y%2BicjGu1bQlqy4Lx5t8yMfmA92BuppmruKUDfDKOVmVudJLacTPkJOnrz9pbJ2AZEI%2FN6kBZ3j7OHe2%2FD2p0NYp50ltMzrfbPpH92lyuwTKwgaEOe7siHN56ugB83dXWYNVLv7%2FYY4oFHknfRM9IcBljb2qd5m4ZUJGKjhC2UTGTXMrA%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "BAKUCHIOL Skinpair Oil Serum",
+            "url": "https://storage.googleapis.com/skincam/allpagi/BAKUCHIOL%20Skinpair%20Oil%20Serum.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=QV0G6L03UOC5fq1tS7w5BeBOdZGoZNtjIb5%2FjRW81UW%2FFgolq7tFTSSnfseYJDg%2BsOlF0nH%2BdvSrtgKLdg9TdIS8TuIAFabsxRx0I14aQ9qMKDDiSepJ1qLuc3XQk1kW3U4CgjcmpaVyXaaQDiRuMj53MfAjgomvLOEUlG7iHzeDpk9sy%2FyKi9zSupmka2U11fP6pYu5qrQGb%2Baj%2BdwRNRUavZPtFdIP%2Bb67KzfYb9wAyzBtTHvkzndTALHBH%2FyUy1ivsK6MH6PtAUwDa9FE%2FSetBBCCHwZW8BbY6yJt1TV7VYRXPTlbyq73JZwbN9XT3hZWPE5sJWoF19im9BSqpA%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "BAKUCHIOL Skinpair Oil Serum",
+            "url": "https://storage.googleapis.com/skincam/allpagi/BAKUCHIOL%20Skinpair%20Oil%20Serum.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=nAXCBk4FaYnQpJOjVHvy2nmaLLkgywcWIpyvzput%2Fg2k0%2FbxsUWGighSZJUswoZQ8hzFaEMkgHB2FZ6eYKkTHcFeGqLJ5Fv9YBLGmT7oQ5R7WXIhuxUKkspLe0qhoVQJrZzb6lVSZiMjghN81VjYu44jUHTqPlPIbztIR7KWJSVq%2BULxObCUY8DksWRYVnqfMDPiVhWqXwOmlpsdAYdh8NZu%2Bj7ZtpFJ9T9gWsQfJEPrFKMbLeULb8%2BlfmwYqh15GUOZ1vVWLms7yNnVvSuWYRVsbl5ou4NsmvIk3C4CDQwepp749dETsL4%2F9tafTHFAJ1nh6f0eVbMuOLoKUjifBw%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "Brightening Facial Wash",
+            "url": "https://storage.googleapis.com/skincam/allpagi/Brightening%20Facial%20Wash.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=ZozTVV%2BY5JED7oIZDwKn%2Fq3d7r4Wpp7dHa2R5IdXaYAgJqBfB1gU3oG4twvGZeLBA21zQqOyEDuV95CkSafexZGeijmf6Lb7uzCL7IEJBc7kmb9MA6NtvppLEIUuT7t9r93gie1oElEkxNcR%2Bf%2FeCQ9OJ8pUqdNeyNsw1%2F2XCIX34yjCM1AweYlXHbb%2Flf0shvMWgPdrx7cSfCAuD7esYqLlPm6p2oWkF3atHpGRUkNCJufMlOLFziiXnQcF4%2FAOEQSDWnczUCXEas%2F7I1OOpQE86sClK9Tmq0djn8ETcR4M3wLv%2BivodvQOtF17NvcqXRZ7yVeXDRMlmO4RTR1s2g%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "Brightening Facial Wash",
+            "url": "https://storage.googleapis.com/skincam/allpagi/Brightening%20Facial%20Wash.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=Sd3vvCiffnzi4OFehIWtyTCx%2FPVEqta2gtZihgA4kXV%2Fqs4QuP7TrY8D7gEpJYUlXWqr5H1fhb1GXH8e2ZngRuW8sQfGVsiyAU7sMmEIEWgEFDySMYuI2TVSaCfNIPKmwQhJxMcD1RuWwyBptRg%2BOr%2BL4hp8itIVKmBEi%2Bve2L4GDJjJTvMQKsnqWSPwRV2SJZ%2B%2BbxfaqemABmqLip8rpD7%2Fk53lcjkOe4Ssudg6oRXa28TaHdPrIZQcE5vMxmZKAFn3jkK9b%2BoQhDZO9huG2DVzfczB94oC3S2HJ1e8QbGljUr1Fz6WyVC3SkR5gbARPka3HJKEuzjAFxDpjrFzaQ%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "Brightly Essence Toner",
+            "url": "https://storage.googleapis.com/skincam/allpagi/Brightly%20Essence%20Toner.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=RBTMCXKXkE63OkiVy3kOHHtwNRDURTLFOKjGD6b3ZbnTT8EbJbIeivn4%2B9kirW5ilMIDLCIQuN4D5jyjfE9Zp8Ys7ANtsP%2BEcqxOrTPrubx2uWAg6Uw6TYJTO3Jl4rp6QDZCi5qJRZsIrvlnxLYr3Q%2BJKLMKft%2FWZTV1vOf2Lt%2BP2SGKgfd1MEdPnOOLoX4%2Bb%2Bb062mj7e1u%2B%2BbKvdjSnNxIS62DI%2F1CA75U4%2FNpbwBXsKw59gb0ApOXQcb3Om0KPHElxtrmuQ0%2FCtOAnP9SCSMnS%2BrBppYJL7HmsAYBGZdZWOGRi%2BKV5yaLdzvJ4VZhT4kQHpjyQuawV6hruhGIVQ%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "Brightly Essence Toner",
+            "url": "https://storage.googleapis.com/skincam/allpagi/Brightly%20Essence%20Toner.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=l41gLrpMov2BmzLR9EVNBoKmwod5jm0U4rXyneLX16o5E7XMmbVc7GRzpbpBHBFDLfrSFCqZ82hlVHpwsXUA8t7C2Jc6ygRMLEtwKEXPxWF1a8mqqy%2FTGRzgK5upljK6wj9PfQOsLHElKx8%2FjMDrQAKGwJEVCJuu5T%2FQNEgLv%2BE%2F6Ze%2FuifpX7HQDhMPglJ0k4eWEiLHAwFQvB4oiCafeYoewva4TsLQuvK9KBYovx8zXxXWQ9owLY8IKkyG9UPlORSGbRYL0oc49%2Fc1WVRUHLjtEfTmyjTYAHct2sRmG9PgXQ2hpDO6CskEdHia8nQbqZYPz%2F3yQcDtCkmlVZthAg%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "CALM DOWN PDP TONER",
+            "url": "https://storage.googleapis.com/skincam/allpagi/CALM%20DOWN%20PDP%20TONER.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=IIQXZJUI9eK8VCR0sf2x9vpnwc5e4zTVddgjoMmaPbu8rZOtz%2FLRfrz2NnWjj2avGRVd0IJR%2FIdvkFvZSepKsYf%2BT2DuwXq0FA9WnJs9h%2B1lNTsunNG7yHiR91oR5RGusq7fb62g8edRZK599lEHp%2FLV0E3NARuztIB%2BGJT%2FXLyMqSTtMDiMThbNO%2BYZmST%2BiceWwDJJ9EHsSBI%2BY63NacfsnyRs7AmW9YAM0M33f41kQ5ENtAo5Gd%2FPzLK48exMOmRZh4pN7Yoyauox0%2FQ5lmV8tSvPfyuKXs9ERWXe6mmEG391u0Y1hHCkXuEGwZJhPsQs2pdSuWo3i4Sf6xS%2BjQ%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "CALM DOWN PDP TONER",
+            "url": "https://storage.googleapis.com/skincam/allpagi/CALM%20DOWN%20PDP%20TONER.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=JM6eBLCZUfAqiB9i8d2mfcr5UCQj4zKkrvweTkmDDYNR8IR0w1GrVOVsZl%2FuCyGZXVSFXBKY9969QogU5i3O1WvQLK8TTRNqis3wc3eTFogtSRaMxBRMOeF%2FqbNkkZWyiEl4Hphq7I9BhFlo8Z156D7WI6zRSH5xaQjzVZdllItFQuhIRSQ6au5YLjUWeUO3yMhptMh4DJF1eooAV2mWvV9Z37T%2B7%2BeQeRK44yv%2BIVhxp08Ufh9pHWLBZwQZRvokPBE7iy2HddCn1t%2BrPpNFZH1gH2udY40wbnvfFo1V6QxCgukzObBOhiOlC5E2oYC2CEQglz7ZxS90p9sOi8VZ%2Fg%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "HYALuronic9+ Advanced + B5 Serum",
+            "url": "https://storage.googleapis.com/skincam/allpagi/HYALuronic9%2B%20Advanced%20%2B%20B5%20Serum.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=JNb7nMUh9wsQ5Vq8p3ecFAlZbzUv%2BAUpgHZ7gmSPpMFASaY3BAbgpx70Ky6jxykt9HpyWsR6D2GrPbJ0t%2BYjxyXavEUvRdmZYnNx7f7netqSCmi4o3IdE7FR%2Fx2ah%2B1C0Y%2FYQRANaH27F9yiMfBwg%2FC32OGcBp4JO6JuJ0%2F3VlYyhfxSW4E2X5xn4Ne50H3pO69YGsRzMZggRckxuA9GeMj%2BQ606RZk8PD6EeR3TpPenkmkXwciwWhiaArtn1Q6wfkb9bUlaLNm%2BsanD3%2BAWITcxP%2FMAoXw4vXo1PVo%2FYlU5mbxhiDz2rCxG3DXTB%2BnTS4HYxVaA5mwpvlU2YTCcHg%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "HYALuronic9+ Advanced + B5 Serum",
+            "url": "https://storage.googleapis.com/skincam/allpagi/HYALuronic9%2B%20Advanced%20%2B%20B5%20Serum.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=Jm%2BK3nwzHGPltWBTGwbJuB9fSU%2FdpkT1IqcmgWVPezR7%2FmGbrvD3gDXWesfEOacSg0YgIOUQl1%2BV2Wi6oZmllZMh0kHlvYmXgJcf4pF7Q1FxCLaFf69Gs%2Bgzkh7Wn6k4w08fPhPVbuPQkUG%2ByOAb01BK%2B2aquvGiyWXJQTEtDV4zywc4IEZia1mJA%2Bl2h82587ep6NUu5x7JOQghxD1H6dBILtPzAcvFwTOLytfWkagQ5fE1rw59fhUNSAawyhuKVoStzma74SAlYf1NuEyy%2BkmD5BvqpJ4yiAxrEcOw%2FPXWOfY6y4qyS4gVynpLv%2Fv0Uc9%2BlWHSzuty6bvnwQ3kpQ%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "Holyshield Somethinc",
+            "url": "https://storage.googleapis.com/skincam/allpagi/Holyshield%20Somethinc.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=WeSwkpQjbDrmbmSsCtWrHZ%2FDRej178wTL1zMTixhbcmUbRNZdAlJ5BPdaqKRbQtYA3HvMCcmpF4aH2u3YYNt%2BPOooQnkq387wCvTlOY7heWu1H0BBxUdBs%2B151tNqHSybPVS5sn77WEzI%2FEepHlDppI3m9ip%2FVyS7jvD2n%2F0RffP7oAFnT28h7G0cu%2Fk6l7dfsmi90Pc%2BRCS8i7wtQQPTRIChJs7B70FHXJ8%2FYiEsW1AIr%2F69d20P8HCO2FmjYw0ZqiHrRkBQZzh1y2oTjR%2FG2H04nEDd1kdRoaj3dpeFSZL%2BH7pAJH38Q92SCpMRfga5kLNowY3kubiEpmDVjwgyQ%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "Holyshield Somethinc",
+            "url": "https://storage.googleapis.com/skincam/allpagi/Holyshield%20Somethinc.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=gbJcynJYBtw%2FPuyIFawY0MIqzbkgyXwZTs%2FYvCa%2B27G1nsO%2BKD0RfjWWSns31kOi218p52CxbqanVUNLcV5CKZeLw%2FGcB0S21%2FpVPA8EZj2GlRYsVrtSWvqisGQ0ljMRPhprw1m0kmPYb4b7cbyaFIe5K4zHPphZ%2BXcdxOkMQsy5rDOg89UC%2FZzpBETcFWC7QNH8dYMRLDNLi2nktrXPBc%2FVrOkXGlYF0fvTM8pSAUl7U6T1idkBNQ0Y%2FVg3ssqK0vaWaUBjU5E6mRH9w0Wm5TaY2N2z0HPIWNg1BCfSAr3tI1BN38Fyda3BMK%2B42TwkxqCFGl%2BbJqYHMl6CGbzrPg%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "MS GLOW Facial Wash",
+            "url": "https://storage.googleapis.com/skincam/allpagi/MS%20GLOW%20Facial%20Wash.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=MKsW%2BgUk6Yv6rcDANnZb7Vk8%2Fe98Bt%2BTjbtaf7Kuvrt1%2Flx3kRBKh2JSJHS4%2F%2FdT%2BqrQVaE2xMKGYP1BKD59hOu%2FpC17%2BxGgqkstCF322LaxwO%2B%2FEcmbIt7X2pjcTu%2F564ah3VqNHzk1B0frvW3bwMpC9ikKU17bqOkktphbp8%2BBfXMYftAb2Obzzgra9RNMJnyAew6I8kIxaQZIaVnGB77L2OfgeFZ4zuc3zq0JUJxqVAhn3yX8umEZu9zNfRU9Bm2n1HxNPrhRP4iuKYzyb16G1Vm1%2BhJRylU6N%2F5AAkGYbAQqSh6ntaEX2fwqdmL14y442UYjzlv7RxvKgjBo0Q%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "MS GLOW Facial Wash",
+            "url": "https://storage.googleapis.com/skincam/allpagi/MS%20GLOW%20Facial%20Wash.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=QydRA427ntneb5%2B%2F79HDB1Kq0xg2G7kJlHC3J2DjTE7VXWCEkcKTvZ%2FQ%2BL2l%2F71UC3tGQ0Wzyr9yA0rQj5CxozKtPICSTiOGYKX9kg9nzhsvLKeX1hYTfyzNA6XLSkgEH1ndvjS8hkc2wCciu4nflU3xu%2BBnzdWdiWapsgSmCFKpP87S3uJaI9YzM1JF6rNk6KqoYJ2vVdQeuvlC8m9%2Bv3ipfx82m1Hx%2FxPSaR0SE3oK%2Bf18%2FrDVsoaXmzgogQK2pHOPsJSRsBA4EyM0T2cDFtwyBll9ke1LYbDdVvT%2FzJBSyQlfxGpDKLKdMHppsyv2%2BDL7cGHX%2FMbuox064mMYkg%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "Mugwortella Charcoal",
+            "url": "https://storage.googleapis.com/skincam/allpagi/Mugwortella%20Charcoal.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=I5YXWmV3ZoREZMG%2Bq2tdPMO685CP1crJDXwqM5Vjz8CeYJIBVpo08B2agdaSHF3h24g3jr4zb7mzu6Q6%2FEO8X%2BVp977l6nsEH1vBmK%2F0jan4wY2w8yLVMw9UrXjVRIR7y4TiTAOrr8vOK60%2BqJAI%2FdQRNODCPpKONyaZ5rqsfwGjAqMCiQoQoMbUMt84ZczNxRbtGiHUzoMKpkv8G9lXAyGD%2BnngP6YQFzSxpQanl0tqjBraSZjQpBksJkKfDx%2BGhJa6JiJybLZE4YXE6d8seIOiPs5Cqa0zvK4%2Fuek6eMgNPC%2FqN2tlRXpHU%2BK63lPVy72FnR2dux1o58X1dR5cmQ%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "Mugwortella Charcoal",
+            "url": "https://storage.googleapis.com/skincam/allpagi/Mugwortella%20Charcoal.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=POe9PdS3nZlaXwTSowQiP4HffZYCZHBRD1ZbLeHhYHO0x9BQmWfcEPhZYVRoNWjRoEtJ3NIPMvjmjypUFI2%2F3K%2FacBotnXyFhd51lTeJAouD%2FFXOUozrHpEK2i5Ic6ho1Mbmt7KIl%2B9PD0W3wFsfXTgs%2FJ%2BsfpDqOJibrHXHjJoKVYOnRcDvaJfgY5xRDN2%2BO6w2lMz1w5vJu5lCV55qxx2YZf1YwkOty%2BuAR43ShFN%2BVJ8ObYGWPUFaUB4Wx7Go62DRHPfxJscp10gEN%2FpN%2B6Se32gDHCqgzD4Pltscu0DMdRIXHaWGgChQBWiUbiPunVKXrxzJWS957svRT2fkGg%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "PS Holyshield Glow Up Sunscreen Stick",
+            "url": "https://storage.googleapis.com/skincam/allpagi/PS%20Holyshield%20Glow%20Up%20Sunscreen%20Stick.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=f8tRCuA%2B68fF5vmagKHn7Lf44oyY9IDIZdcnsYqV5R71aOedjorhiue6OTULg8Df4GjZScE80DSVutvLeISomcMKt8yOd9t8HgkmUJ%2BttW1JUp2LbsT7rlkdoRQjjJNcWk3JttN%2BjH77XiOboNfMrn0Dcbr6HTHeclTVbIBqvADQz4oJ6f0EqLNnRmNIySK2uUWN%2Faf6ecnD1xQGeXlkCWqD526e0VoB3PMVvsSF2%2FZ02CQxpR9oUnAOCifZEmQ4t2KB1jUShQd18KmkN8x4ekRvGrNbK7L186jvcbQKSIc%2B3iGUpKOju6O7Lewd4w6poDfquolnOPL%2FtkCTOxJ6Ww%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "PS Holyshield Glow Up Sunscreen Stick",
+            "url": "https://storage.googleapis.com/skincam/allpagi/PS%20Holyshield%20Glow%20Up%20Sunscreen%20Stick.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=G%2Bh%2BBVGFymyEQbH08FDjRXnlEVHbLqmqb2Dj8GAGB%2FCDo%2FL93orJVmI56WPXje5berd7LF5OVWv5MVmyU%2F%2B6Djwg5buRxU6yafkKERTTt3Q0dCegT7RWh8ejqDGoL5%2FKPRCuEgdwzoCzasLZyooKWVBrrHBEa7ebo1VQDH0eCpqI8zBn396rf788O%2FIRMeXoGyG3aNLk32FQEUTHrf2cIESWPXXWXh0I6nqJPLg%2BaqgB5cMkblISJr4BB%2B8Ae7lZN2eBt5EzWI2sjnjKS9sHVDtmEqEFlv5TbNcNo3jGoadKler7SNh8feaGiRYNi6q6jN7ZKf7V%2BDZdwlVD0PSknA%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "SKT 12 5X ",
+            "url": "https://storage.googleapis.com/skincam/allpagi/SKT%2012%205X%20.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=PmMbgSXd0k%2F6JYPHLogdWdzxG0YQiRuJC5mumeV1KBEt0BuphSzo5nLIcvintEeK5hwpu2DBZSAQoCN8bGLFJE1MGUsFb%2Fe6Z3jMNbuaYixe4SWi%2BfkuZtnEVmlI5EUJ3833yLoz9N7JriCS0woJJ1PKbqEaycrigGXNlCzNf%2FO2eg7YS7fqkk%2FDF1L3E%2BINxEKH0GYHFv5ivuo54YhaAucMSVGUbyt3Q4iHhar1ESZkE5H3cZcNCNDi7QDlcuDTzo3BSHScs6Qvt5MPYQJS2Pxw92BygKpC%2FhBlW%2BzuZf%2BZPR52HM0uSDQsz2T2IGe28Z2oesmpW62YzlE8QMs7mA%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "SKT 12 5X ",
+            "url": "https://storage.googleapis.com/skincam/allpagi/SKT%2012%205X%20.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=Sj8XSWTmaknep%2BFBbbeUB1qpRHhMWgAs%2BN1axSYXqMCXIwkVRfWVIBbs8nWS45qiitMzo5LREAZse9M5DBwaGUc05lkZyHvvG9HRvU9wQ1D%2BVlJTc8onpk8LLNXavxr8qFmh3k9HfYGt0cU%2BUzkyckd02SoDo3r4OfkoNrsfBlGs%2BL4pNffZMdio1Y6cqkuFXP12DX2XcQg0ocQMwXiprdfRecpcW9vfo82ioRauQAlDFMwysHlEd7FlH%2Fzlz8TKyy9b9y4QaG2F62GqJd4N0p8hyMA0%2B0pT18nPfKIfvblls6y%2BPzVvMeltXvTMqlmiA05%2BJpjf5GDsXNU93u%2B5kg%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "Skin Goals",
+            "url": "https://storage.googleapis.com/skincam/allpagi/Skin%20Goals.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=pJTyCvcwEvVrmpcm7%2B9pmAC4agFKzq7TQRwHwEHjv0MQ8B7mZp2RDCJbTcTzc5jcZ9PHh%2F%2BMb%2BGDao%2FzhDukqSqD9Mi3u8%2Fep0Cgyx2wDJ3cyidyQG%2BkGvgqdAFBj3Qo4MdSTIorisupXNt3WC1t6BZC0J7nh9mhkXco8aZXTtdfbrFh0BO3Mq4mBar8jtck8pevF9uHURbg8goyXOvu%2FD0DdsPi%2FMavI1Y38QRhrGOLTi0yHUXdfspXdZmyy56sLO3d%2FTNOGqxAUczJDNb0KX4J9ysY7h0Q4ZwMiCw37OnzPSJapoonTOzCP1MByE7WLbtOed1BNipd2TwcfeW2iQ%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "Skin Goals",
+            "url": "https://storage.googleapis.com/skincam/allpagi/Skin%20Goals.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=AwZgCsW4WjSFGKWJXX3o7Hy%2BdoRjQA37Ns3jjph5kQPd5ZUAI3CxzaRPr9moPkHpwsbzG2fSgyoL%2FPkO2TsQ0h4g4OPenA%2BdpfI3ED3pZ1AXPzSir6BLu9T9WyHoeaajk1KzHcKd7IeYYyDcCfV4EYSfTMZcLUHpbUAJOLndRKMJB%2BbX19fXXm0qqR%2FHnR0cAQ8aCcUTy8Hg1q8cuTor0EZW%2Bc4jdq1z6ZF%2Fd8ywwWSlmv%2FZvFWX1q4%2FLcZwi2%2BGH%2FFTuhcyAAgGN6olijV910pMhCGZywcmR8lI5xy0pFTiC%2BrEd2zHdqfDXOIfecaIucN8ubc9pz7Eb%2BOH%2FAuTMQ%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "Somethinc GlowMaker Duo PackShot",
+            "url": "https://storage.googleapis.com/skincam/allpagi/Somethinc%20GlowMaker%20Duo%20PackShot.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=M25ZiqvbU7mUk0hM93jY8QfiEbh%2FFXVuPqNTdX3uvI9K7Ap5dztS6VDLYe%2BCDxyutCCvN6gh2Ha%2B1umZ0GHtX%2FNGf9MVfdSeSLwN%2FQg8fQRLPNCvmdf%2FtNntAMuIODX4ThbfjgBdVWdVW4bWP51YTcvaHHVd7JG5M1HlUg5oLLjhB7SDTFs14jKvI2eWNJ2TJFK5GAAbc0DDtnV%2Fgd49H3iRjH7TVinG8exiA4H9edlXG8ZOZVbcx3Gsk%2Bes2TEqlWsfaOxPqULFgSP4LvJE5mOYhSRp7WrBZNv9HmKPbdQFwx1Ro3eN6pINQ90%2BoXfvumn3tn5049uSMH1drDj%2FyQ%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "Somethinc GlowMaker Duo PackShot",
+            "url": "https://storage.googleapis.com/skincam/allpagi/Somethinc%20GlowMaker%20Duo%20PackShot.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=O315RD6CEHdz6xRiCSQePE2vXZJICHcKvv5scG4jvh8TB2Ca4CTZkwrpMXJSrcy0oBsKe43tK1Hvc5zFMgd4fxgKZjcr0ZEe8BzqhGR5quVrVV47vLxQdzt%2BFWt90v71Sxr3ld2d%2F0xuKsGdaStDGudLd2KNtKNEzR%2Fd937lt0%2F4aViaVG5JXSARCzUhSQaJWVcsswcNa6QfGDShStMO46D4GA%2FwWuQCG2VUXwoStr5GnXwwiV8bdSQD83Wk6eFH%2F5Ix0M649SZD95vtnWAHNrezj8U%2FigHFPBLEov%2BeI%2Birnnah6E7z5ElKq%2BdXWCFbZSDowK%2BAGPJgVQCjPMj27Q%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "Toner Glowing",
+            "url": "https://storage.googleapis.com/skincam/allpagi/Toner%20Glowing.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=hQ6ipY3jir3lHv7MuUt6F7mvMV2QvwyoTeNZuXrebSr%2B1%2F7Dhxh1rqqtbBnIrAEQP7aJx9LfciLsg7eyYESGEEsMBFBWxolRwQmPJGdYvuQbf7e7dPPDUXVvmi%2FGOO6BL0VCy61eScSsiHVIhqLExpDDyTh7iXXbJqwh7WCQYSAp5ghh69zpsbhGAY88TDWqAjQHRjMw6rtxAi0V8RXfhA3VqX%2FYAaIoksSj9%2BSMAVzojn4kIPEbkt5NvK8yzgWRxX5V2mrxPkDaH0clUJQQ63gc9Idz%2FVpQIB2pkDGyrFcPol45RhuYUx94CAuys9kG7%2FR5l5RptQnD%2BYA6qInxEg%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "Toner Glowing",
+            "url": "https://storage.googleapis.com/skincam/allpagi/Toner%20Glowing.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=LVeWZ6g%2Bkk1FZO08d3YGEgfiTBcmiHTJYXEkr4ig%2BEwi9OQvz77ugHzE2veVSihala9JSUcyXfCp0nMPq%2Bj5ZLatZluGlTN8Wk%2FpBufRvhEGr2jqXiPsqzE4TsHAb8yhWKX9AmXYFOy8mSOfJxgnYjpAXdiGsFXAVPCCoHP00Z%2BX68teNSYZf56i0%2Bdl0%2BlK7kHoX8jh57aOWdRMbkuyjmCam8poxdByjlKTMTnsYaGNn2EEL3ZYmVN%2FwWsqEvOXm9VxHNDYMQzHZNiZSIdwKJVY96rB%2FKkVeT6aZj2zSlwEGnaeUKq6zwbxWo17CE9NDLBusaFIOmRQyaZOxR4YIg%3D%3D"
+        }
+    ]
+}
 
 
 
@@ -463,7 +636,180 @@ http://localhost:8080/allpagi
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 http://localhost:8080/allmalam
 
-
+{
+    "files": [
+        {
+            "type": "image",
+            "name": "10% Niacinamide + Moisture Sabi Beet Max Brightening Serum",
+            "url": "https://storage.googleapis.com/skincam/allmalam/10%25%20Niacinamide%20%2B%20Moisture%20Sabi%20Beet%20Max%20Brightening%20Serum.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=Ilw1Z%2BOEjSoEgxku8pxwllW6RPIqH6EMhqDZkgUJsffsL0BXf5ZAZSVEUKHgFKmlZHxIEMF5yz6bpnTHQclvp8%2Bo3urUcFL%2By%2BV8wxfrZ6XBBaYVYVVppyJY6TJzjuSvUKM87r%2F6qVLJMGHPPJDIze%2BrQ9NtDJtGejwTKWr8KN1pnX8Rm5J74r1CdnzF5kyhedlopiFqH8qzmK%2BV6hR4KytH1sBfYF%2B8BecYx4ZWHTZiRqJvqbXSHHhOP%2Fzl550wefhWMrr2OZgxE%2BUysbPwOCRfaiqziOVBL8J9GdQm7ch2%2F17LgYO7Zw3G8UD1A%2F1C%2F%2Fp64kQHQEC8DWdD4K67vQ%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "10% Niacinamide + Moisture Sabi Beet Max Brightening Serum",
+            "url": "https://storage.googleapis.com/skincam/allmalam/10%25%20Niacinamide%20%2B%20Moisture%20Sabi%20Beet%20Max%20Brightening%20Serum.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=N%2BYbpzQ%2F58x%2FuukO8p6kL8MCZitKffVgEIE0WIfg4MNTlcJJoxJ87ql7XVc6OsGCobmRhOXXcBN%2FdEv4XDQ7aQ57jFblCzU6PT1JCJdihC8zZqN9nmE9Mm4zAwaqfVelRKa1g%2BZJ0KlKA2aWage%2FiM%2FChiSaEeoeC%2FOy8ZpMI7G7Toa4gjGVG%2FnGeDmGlUu%2BCzbHx8Z5WFS9Hrw7US4wvqgjqQxDCJ0kOuVQAu%2BQK%2FcYBk93rT218jSi%2FWmOHeEDCduSzZq%2FeSOjtj6Hypb91tXKk4XPG0%2F9rpWeFTNxSYgQAdu%2BOo%2Ba1cTZL9XYW%2FQ77qhgwrG6W%2Fiq0IfzesnhnQ%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "5% Niacinamide + Moisture Sabi Beet Serum",
+            "url": "https://storage.googleapis.com/skincam/allmalam/5%25%20Niacinamide%20%2B%20Moisture%20Sabi%20Beet%20Serum.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=CMMn3zXX7vEWFUek8qbi9%2FpSdLpMabPWtrV1fMoQ7rs0tB1sZCgE2o1epTV1RzdH8W7kyPWzaGM9b5Gq%2Bc43RGXr%2B5DWANvoRs0wkUfUDFvU4b6PklPs8lqlaDr4jcBlQYOaj%2FyloQI9tm%2FK01HNXbIlLNAEAVXaemPGCyQk8tnc4OZYRzSrzwMndp0OgFaL%2FPVQDbhSehnx656%2BWPo7mZzt9rF%2BX6dPuRygKYExOgUHwpH9t%2Fo9qVi%2BC4wghVKM7oDOXn4WXOJxt8WDJyKohsOafq2m8YId7zP5siTQBExbKPbsUlniKEm%2FS0Qbaj9Wij0PLSBH%2BMg4TglY8%2FelUA%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "5% Niacinamide + Moisture Sabi Beet Serum",
+            "url": "https://storage.googleapis.com/skincam/allmalam/5%25%20Niacinamide%20%2B%20Moisture%20Sabi%20Beet%20Serum.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=dk%2BgXUrKRWdufuz8iCyXTjWujZZ6yarG%2FWWnfSY1dEYlN6mObbTnde7pADm99Bsw3ECil9MVe54Np2EiSa5bt0ZpngYAO1TcJozDls4VCWyriMBlOtKjTEjEUnRmA0lUnUV%2BFSVZVSI1tCYoz6pn1GYYeEocpcSRQ7a7fil6kO5ACVtev9LEw0CWvGck4vkf6fcsEL1ZEUjH8Qao%2FddLyEsFw9GapD5ooQSb8lK%2FAf1%2ByDsHFFpp2GFyC3maNitGeNSDGQMO8%2F6TAnTZoy9oAWy4nCnKi4RQipj2Qh%2Fx0FxGpBpFiXmBzc%2BsSHH5QS9mgaxnqyGvZO06wXpYsOj4Lg%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "5% Niacinamide Barrier Serum",
+            "url": "https://storage.googleapis.com/skincam/allmalam/5%25%20Niacinamide%20Barrier%20Serum.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=E%2BJR03hq9DeZLlVAKEZ%2FRoHgoGRma7fsOIBq2AyRF7kbrWawb79BkGriqS5KBP3WEWiK76J1H823143GEp4IH%2Brrsgw1WOGuAgwadlwunjmaFaLR4NbxTRWNM0XUbJM1E0DPqvdqBBTEUX9YYYgISmassDZ7fdZbdFi4SOgyx%2Bmb8tCihHiVx0yWY%2B%2Fnqv8N9IxhKwYKWgO9D0kP4PESryLn7kMEUOsjV4JZlBgsznOLhuLynoGf4noTur%2FVtJeWzQjH7tWU%2BuHXGvcFLVBfdTUVxAa7JHxmIVQ4%2F22Z6NVvhy7dPRtLhvxPg6awoDJDGTQ81LdRgTEZghX63H4OyA%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "5% Niacinamide Barrier Serum",
+            "url": "https://storage.googleapis.com/skincam/allmalam/5%25%20Niacinamide%20Barrier%20Serum.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=CWBtMTUgvKJY0secfXsGCpKC6mLvSAF84vJ%2BWCPpH7TLqPvTEzydcHo5iymtOj8gtSRsEa5Wthr%2FC2GV3hrcWn2V8hkUKpd53SAN%2FlF1GCZXrrQDF5xbLQpjLE75VmJkEFBld0iMekoBvh%2BcL%2B0SuOs4eqNDcPHgBR9sQ%2BNIAmhDruvXPp15M%2BKPItpzabAnlnh9GdNC4FnqLruQyzsWat3%2FxNcZhjCNOZFXU1%2BqDs5MQudmbaIGHTifLCkAk9T9zfJ9b%2FziSJNehurcQtum5Rj2jPZaIhe9GXt8Y%2FcyZmwA6Oeoc%2FZ0WDna%2BBpq4d%2F0f2492CcCyfusbJK5R%2B7A5g%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "ACNEDOT Treatment Moisturizer Gel",
+            "url": "https://storage.googleapis.com/skincam/allmalam/ACNEDOT%20Treatment%20Moisturizer%20Gel.jpg?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=mY3aPMlGbB%2BUO1HENsrmF9bajTB6gwMb8IyMGshohwmSGHPO49qInNm9sNlR%2B8uZJDFdKbeTQ8YJcH%2FvjiJ%2FVc6ouaK%2BQiPGmEBFKC40MXgP86WySLn1c8Bq7%2FviruWN4I7FSHQ%2FCl5hATsVOAOLwZU2qMWjuQEHap0M1XhfxJvs1FnqoAUvrRKZNB4OYT%2BAA3HmHKSEyADCK5DpNUWt6pqvD80LXqOly6TAZM%2Bl3olo%2BRzHF6qPjOIIa1NJUL4kJ7QmAhAYzMibt8XYQOk%2F6LlxAdMr8yf27lxP0bVfPi75ZyTMKF21Znr7CHxtZQYDJ7pM1SPCuw%2FSEV5mSkHjgA%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "ACNEDOT Treatment Moisturizer Gel",
+            "url": "https://storage.googleapis.com/skincam/allmalam/ACNEDOT%20Treatment%20Moisturizer%20Gel.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=j6ZJyTKxbsidsV%2BYFkjjq7RkabqeZvqERMjiltgKZGNZgYzj9OAQRua0g6l2oFjFSeCcI01s5Or8bgB22HTH4MnU5HbpqwBnsYjMsR6XBsklfHuM8ouqfNTV5PUw4O5r%2BKtvpKOJBgZ7Kq5fd7nK9vW6KGs7R%2BefwpvTV5n4EX9Z8HN7sFLypUj%2Fvw9D8%2BK%2FrOIjW4HQy7l2pcCBSS2bUkjz37%2BvGx1duGDx%2BNI799aOr5vn6rG%2BUyInxwaUsYNL4OJ4shXWG0L5tNiuSWXPFg6oULid0JNOJtgfw0eItUAykwmVo%2FUaSQ07VAqkaldz%2BCA8fuF49%2BjlKCfVOpjClQ%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "Acne Facial Wash",
+            "url": "https://storage.googleapis.com/skincam/allmalam/Acne%20Facial%20Wash.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=gaestx9vYl3tWI9hMqEcWjXz7z7jbb0Rs7cvFcmVCtGDpM%2FDDk5935XVmCV%2BT%2BOno9E5pKfhoZ3ZJWcBS%2Fn0ZKqyJvFX9EjKEajuM05YD84l1%2BrTRDAaGI1O6gJN4AjMCECYjmsnXBlwodVa31DwUs9r%2BY3svBXNW5iHLU2%2FyGHvx4Qiwjy2a5S%2BT72IVlmPsDxEILCix82E%2BFVu2BzQ8L61%2BYsXQ7xBOQonCGXfitCW4WxspM4B9q6%2BaPNAre8MVCEV4f6UBB6BEl4Z%2FSUu4flG3LAYGtKdixWKx4f2y%2FxCuGuF%2BmXZhTYmDpFjQl5fF3M7FbT5AcQQKwtaVG1VXw%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "Acne Facial Wash",
+            "url": "https://storage.googleapis.com/skincam/allmalam/Acne%20Facial%20Wash.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=cN3hNSYfiu36dU%2BsFoFUrI7es2mQYe4EOAgPXFhFzVQg%2BNTWHCPEasC%2Bwi4m4UHEK8CNagIg2vUdwdvL9PQnILg559Mo2RSmrivxdE2QpSA%2F32pE8N9Xw%2BzvcVgrEeZ%2FB2W7p%2BLoRhlzc7E6d7YPpANweHpigNwL19dC8sfpWM5M7bSHnFi9U4POtpjzp3GPtPOiISMM7GAFiOg79NT0%2FbL5K7vVfG4kpj8tPQmyaesCgzPurRgZgrR5P2OPwhnYeHQQQAHcNfhmzTzXT4fH0vAss%2FLn%2ByUIlGuVuQjiELhEs1OrrbQukJBuj3jZTxW9S2ArsslzzNVSCLJ5a%2Fq3AA%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "BAKUCHIOL Skinpair Oil Serum",
+            "url": "https://storage.googleapis.com/skincam/allmalam/BAKUCHIOL%20Skinpair%20Oil%20Serum.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=f2afUSVCq3I%2FAdHljmDeJF0VkOCikaZW%2BEuhsUX2%2BIBGyad5wMGFRsXjXXSJua7A%2BnGyRLoHnvfL%2B8ELl%2FHu%2BSSsUBcBu7lxZyfZg3YIfPMjto0cuVEyH3MlTzFVfFXYMfT4EMwl%2B9UCRvpARh4CvJQDHeKCJ%2Bsv1xuJwP2k3SzmNRzuUeGeH1u9g%2FM0n6OKIZW9lUoI%2FopK1tYkZMQayEhu7%2Fbr8a0T1lfhtIekwoCkfo7U7E3ohlXCZ3tloN8BWpEjOCGh%2B1YVDIpvkqYpPkvPT%2BKXd2NM3oKJCJnBTlAb5kIx5guykgOF6onJ%2FL%2FFf%2BQmnKgsTy60j4cVubvt5w%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "BAKUCHIOL Skinpair Oil Serum",
+            "url": "https://storage.googleapis.com/skincam/allmalam/BAKUCHIOL%20Skinpair%20Oil%20Serum.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=WCNh%2FiiUjp9xlPoim4KMz8SuJYigRsEFwGqvti87qYmZE9Y2W0BQ9wueHWfdo7zNMm7XBwMVk76NrdBHZwpRoXlCW0Jl11b%2BdOkYfr16B29j0kBKR7He7iiDR4qEuVk7xgKWmIbW0rM4bKjqjKt2Ir48xJkmPkmYO49JQpSs72i1Oeh46EFrBP%2FICOknGhJ5ZT5880r2B%2BiVf7j1lwNAURESpDi82M9vN4wSaQ4%2FAMGUHjezB6ZZr5kVEpyBQsH5KqbJQd6OZvZO12XxkHSZSVoND3yJKdv1PA8bhpDe76vJ9FAbOvOwGAu4Vqs%2B8F69uXZdsw2Z6CDp4IRcrN8xbw%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "Brightening Facial Wash",
+            "url": "https://storage.googleapis.com/skincam/allmalam/Brightening%20Facial%20Wash.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=dWm5wAaPSSpyxpNKLPheZTbBO8euqxq6GNLypbkJ9nd4KFPCrcjxJp0EAqeO8ZXByL%2F7bZf9sNPwxA3Hpr%2BdxHNnc5lSQe%2F5WQ1QSqL1MAaIDlTOb0a1OEiCbTctgzPbv%2F6shh9XQpIL48JbT%2FgW5v4w4JVjucED%2Fuyqotke9zQZDxbMxNLZtFucQvNluq93hTLY7g8oPCzmOhcO8N27%2FXmJxf60zUe7VryV5mHbqZCTlOXPafYPA%2FRJZycQ3wKmlwE56xoHyz8KmqdQ5PjikpmPAMKXiMMiM3y2cYaiqv6v%2BGh7Gl3J9VXt83azH7Sogo%2FO6KhX1f3fkRRBkCFYPQ%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "Brightening Facial Wash",
+            "url": "https://storage.googleapis.com/skincam/allmalam/Brightening%20Facial%20Wash.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=Wcrc99agNxOodqVIU%2Fz2WFx5zpM70oA9yzKE817ZlttgMceUjNmnec0W1wl7gaVYSjj0I3QFZFxp67DrrjWFo7qkx6GBybF1xkra3aMcWQNISEqtmWrmSQ0VVjiACBJfN8ZEQ9fXjFPeierVyQ9SDC9WiU6z7Sei0K03VFipIz4WW5gDt1V3vNvcqwM%2FOL5UXuBr1N0NKTCmdVJ7xI34v%2B8F3loILQis%2FHwU57PTG2bo7bIrxOsgbJ24WDp9%2By%2BF%2BJxCmKhdsRQcCoM4xL7SLGZH32VC50ikiI17T65FG%2BUJK7J%2FQWDSGJz5YXI2204ZIFIgS1pNi7Fq8rhkOkCn%2Fw%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "Brightly Essence Toner",
+            "url": "https://storage.googleapis.com/skincam/allmalam/Brightly%20Essence%20Toner.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=i%2F4uLwgo9O0KCLw5kTkCcgdOV1as%2FYMS%2BVqBWMFaJczC3v%2B2iJ%2Fpw2WfYgyqUXegrpblufyrNyL9voigJFsd0Kp%2FG6%2F1hWkXneZnFVE7EBgc6%2Fa1YHbuCRaOdlVKhhD%2BGlvksschVVWKIu0jHSCoydS7LXJg61eEtJBRUCO5CJqzwX%2BK9ykV486YLVCSgfyJnSgs2GmoVMqoMnCUJCrcARFk4cWrBKwzEWSWEhDVz2TZEUSPpQxtDf0Ay%2Fge9ZR%2FBO1FUefcySa1Pmo2kNlG9H9w66kqqA6Eq3UUG0xPp%2F7%2F8WuzReexD%2FTEOSSuxU7yaGCsMO2EsBxWizj94jBHLw%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "Brightly Essence Toner",
+            "url": "https://storage.googleapis.com/skincam/allmalam/Brightly%20Essence%20Toner.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=iaUCh2Qym4woD9Hl1jpUMpt1Y%2Bbq%2FfdNi1Jlx%2BCkQMz6LZEHSaRyMwSlQdZT6C9GKdXYynbEgn2tcLJSrsojunufFGXtbd9pYa%2FDYiTNaSve6qHZJWcRKEyRq8%2FLtX9HkCwpTGuAGDf8RdQ1vY9%2BsGfN8ehrSxnzpriDwKlX%2F%2BwZmsP3rW6B0p82RJDhQ5S4kfWa8kcHxv2alLf4%2BgIV66vkSis2bPjZeURmDIZzneHeqBdKSB0JnPiy1jF8BuGGc0mpEHfR%2FIk8wE9H%2Bbokz3croi1dBJ%2F9Q1I4mQC1jvEDJ18%2Boj9Q128yi%2F0uoU5AKyoE%2Fa74n%2FcTuNbYrwZUnw%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "CALM DOWN PDP TONER",
+            "url": "https://storage.googleapis.com/skincam/allmalam/CALM%20DOWN%20PDP%20TONER.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=qyW7au5BVkiEwMeWfXNVNO2xCFV5JX255ybzP%2FWmhINRdGR2vAgNbd3By2kpci784%2B2kZs3QBUIs1U2GCur2AqTY6SDZWwcpQPNg%2BWUaxZ3KmaOPsSE4z7%2FCDxkG14Hw4F4O5mHzYwEgDZ2aEKbzZS%2BsAXSakJpWEj55tqsTbHVgQFUFB7XZ%2B1K28%2FfBbDlBTF515hXEB6%2F0qfMCsT79nOknLDTAeB%2Fllc06YLlD65X7nYkns9zJZGbfhaaBam9IjGeW%2BcrjF8RO%2BN%2B%2BsPB6E8OARDVTJOER7rnOnJ1j2FoOuOOhQtW3dqBCHmYPl1czMIFQIn5co3d%2FWQrQItQIKQ%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "CALM DOWN PDP TONER",
+            "url": "https://storage.googleapis.com/skincam/allmalam/CALM%20DOWN%20PDP%20TONER.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=aB8%2FDwiR1FeG5%2BJbbyjZmzmkW9uniGq2fRw%2BpcmAyrKzLbLCBddXGZ4CSkZcOtsQP75Rfdb8LkpMcGtOQNQxefMhyOfjB40fwaigjw1NnjO3EkgMpxEXd17FzrUnXC4cJttwXtFFfYgx5Dlao%2BTAfLiMzF4seskiNIjNVSJukfYRM1q%2BS9ZXBgbi1ptnP73FjGmycXjeebImj36TH7RJOHDKXxeNti4o5B%2BBHCtEhGOiWMgTBeci3xyuScHv1%2FjM%2BG8LpXJOLkfAGQ%2FObyYSXrxx9cuEG1cH3CwSlZh8oynNgKlhZ0DOePfeZz%2FDq2Wn73jCGBB96FsRqZuKRq4zRA%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "HYALuronic9+ Advanced + B5 Serum",
+            "url": "https://storage.googleapis.com/skincam/allmalam/HYALuronic9%2B%20Advanced%20%2B%20B5%20Serum.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=bRqxUTg%2BiK1KrYaq7KQtm52mxpam%2FepKQu2gTBO4EEJqIIQB7t%2BNtorJxd9cTFY8YkfJCjsMSMoMSw3BpnrK%2FXQ4WbHTSWDxQCEn3jTkFWco5OI3DK%2BTPplUIOc3s5DK4zYYAYu%2F%2FHR0lj%2FDdRksaTpLNlDo3Lnqe%2BLrpNIXY0TPnJ1DA3XnIy6bJc2KsLz0%2FcROEcJAjxIxV555rdfo1cDiZFKOpEvOL22%2FvzW4DtN1jZ9UssSJ%2Fzr3RNf0tllRUZsz%2Ffm9PPh0C50M7fLq0YXsbNjyacty6WxfPYEXJs1EJLeWIsbjwcVaGRwJLwT8dpGeaozwmJqD6sdiZUM1JQ%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "HYALuronic9+ Advanced + B5 Serum",
+            "url": "https://storage.googleapis.com/skincam/allmalam/HYALuronic9%2B%20Advanced%20%2B%20B5%20Serum.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=O9S7OYMxJYn1PzbzvrDJbRYwvNrkPYYFnDl5K23UoLr0f1VO3tGtgqrBBUhBexUHvthbMafYfmg3qS9b%2BtvnAmgzoZQH3C2slDwuwEfa3SP5TzUJN2cjFm4AKKZVFr6DMLpOOGsen8Cx22ozt8sQ7hCj%2Bfs4WzQ9VFQJbKAxZgg4N%2FbwZGdUtdHeD%2FPzKjbkKuKWeg4IXR341XjWt%2FgFP%2ByoOklahuB9nXPS0%2BST4EQ2bYZBcwjttNrrhn28n2Jo2lGjDM1heEF%2FavAZ0i%2F97USdfFIf9W9haqqPp6XKdLB2Qylz13MnGX%2Fwfwe6j%2BIQ5T2VovlfbdyjhhOZw0675A%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "MS GLOW Facial Wash",
+            "url": "https://storage.googleapis.com/skincam/allmalam/MS%20GLOW%20Facial%20Wash.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=p3PaGFyrG4Mz2oD6mAA7vqbykbk3m2aa9ya39GEEjGwf8E3HU6kb%2FTHYtnvmXlQGbo6T3380cgFTOqe%2F7cFFFVoDrkerRfeZao06u7oLVvQlg1Ln0xBIbf3PvNK47Fps5lIicYVL5Rv2DBdblauYrLfPug4I3PKGFLoANwn6s5M6HYWFND0oPCzfb8HOvXSkSrTsFqRSE2FVn3sf1BqrkZ1YNLGQcUrw7Bj67IL9AJXv0zv3rXaNHk5HVQLeXr%2BenoSPZ2gVkplHHM9MMoOMBkXGBiPazOjvScHTV4yfHihswocaj5HEbbysh2x1Q5deIcgap7RgGS%2BhkKF661m9CA%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "MS GLOW Facial Wash",
+            "url": "https://storage.googleapis.com/skincam/allmalam/MS%20GLOW%20Facial%20Wash.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=ACJeyRmE9g1AfB%2Fr5sXCOexXyyRZrzf0HhKuv9LtEj8kHaKe7YslkRamHftymTHwQLuHQIhNL5ebWjM2tlt4lpRzd5HPLAhNqS%2FYgElFbAE7Gf00lgBoW%2BcCTBw0Ts%2BgGi1AmwU1xNkPqt14x8Gs1%2BtNof%2Bq%2FqwJZAdZjf0ZV9sHJpLvhj816T1VFzc9XLwBolTpbYBfyc520w%2Fkr4jELynvlp4P6i833dDamanvCHB8tgDIJOrjWYcYeV3Jbn5bb%2B%2BlaQhzQ3ikiuykZ2kTM%2BVGk8IjKu62gE2PGTV%2F9wUMy%2F8%2B5bZhRWn%2FSG3zhCs3li9OW5ZVBP%2FIgtnFCdZIfQ%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "Mugwortella Charcoal",
+            "url": "https://storage.googleapis.com/skincam/allmalam/Mugwortella%20Charcoal.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=L1dve67xNWFWyJ8eKxIYOLrEq0S322RC76siWerZOQ2gFtZrTg450jFZWdLAxP2XxqmaYGdQR4aJeo%2BStAdTlrIUpBDckw51m9u29QA%2BMXSz%2FwKdqWDYIagWqmErq9mdufBtUnETlioGlQoSZCuNX0HqV4nLLqU%2FVyCSEE%2FY6ClCPk2kacs7HktGrqRdiQy8Lte3P82pUkjFhfjyB52mBLjYPDynVszPMQP5bficO0JVBOOL72fxKcNiAigJODtkfBJuJglTdfuZZ%2FOPx6qhWbVNR6VilfzjG99zL%2FIvjnE7vhc4nPTYsyqkb7xGADcpDF4l3pwSr0ifaAImLudGvQ%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "Mugwortella Charcoal",
+            "url": "https://storage.googleapis.com/skincam/allmalam/Mugwortella%20Charcoal.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=E7mCOhs9UpyleFgb8i9wrhLGADUBNO6d1gwxgr8%2FAg0HX5JFVUyxWBI0sB22iaeTNYaBvbGBm%2Fq4ti3Ty1bZnQBw6fDQgY1FR%2F%2BeMFoDM%2B%2FSGNecnbWtgD9gZmkoh%2Bni8Fcmu3B%2FGxu8qjNW3EGBN1A4BJ4WbCrIfPbIM5mrtaoalo%2BnL5Ld5prNaF0HUqgD9ihQRtaC5gugZ3CTfDcfBYrZgmGUO7G8%2ByUVvZXqLHN9BQBfTQUArMOyzb4ENTRHUMeyLwma1gilA%2BHPwtFDV35FpJD3pBKzrUZhNojeBAchdmu6m4PcsOizDvtziHJxceFSmn1jPoAMtvPMOUUnIA%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "PEPTINOL Granactive Retinoid Peptide Night Moisturizer Creme",
+            "url": "https://storage.googleapis.com/skincam/allmalam/PEPTINOL%20Granactive%20Retinoid%20Peptide%20Night%20Moisturizer%20Creme.jpg?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=DEARhYhxrKVZNsEAVV0itzSeYJpdCz3yPOhED8OIewAYfYXffEn1FkaKNWA9NrO0RhfQg9Df5wk0K%2FqSkULpyTnmF3osl9ES6rK3ZoIC5vJHfzWJ8SRnxlWIdO4BAi156Tbi4R43TLJhs%2FuOkujeInVAD25ohl08q9Ygy7qjxyGDdmxnMm3pTD1eZRAfnuAOOkC8oElGqV3ZlHbAw2LVHo39had3N2Mf%2FAS8NwhW3wd%2Fz0YVCvR7vFib4uA6u3Nz6h%2F0EqnkEL13fckDQbLxNtqcEPk4hFwDDOM9SOeAUxl0p74Wh9c%2B954qjO%2BNqW%2Bsof0MsWtoQP%2F7y57bHWm2dA%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "PEPTINOL Granactive Retinoid Peptide Night Moisturizer Creme",
+            "url": "https://storage.googleapis.com/skincam/allmalam/PEPTINOL%20Granactive%20Retinoid%20Peptide%20Night%20Moisturizer%20Creme.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=Zfo3FS%2BDpsjGQSj3a%2FxVn1mVAkkTi0udhqLH4NkUPnsHP%2FKzHEyvnwQ8qj5FT%2FnIx3aFNiCDC2T7QdbBaZZGA3bTzag3SWbH87UJGmz1qGHZlvZckKkf3MNeYUAqV8pR36rOleMv%2F0LlsrfuqR1AFK3%2FvvxQwLHG8NyPdYfMSTM%2Fr3CVpOrRdJm5X8KCEHy6eUyjOJhdF1hC7wKj4QGPBDeZt4u4%2BV%2F8ffS3In6dgeTGx4scX3i6ZAYkVspHcQzHFajz7FKyHDpKBOe3QegJ0ODVCooVLKzxssT7PMyvDROq7xwDUcqqgzH8nLItTHW3AT3nMA%2BzqJV5gEskd0cTzQ%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "SKT 12 5X ",
+            "url": "https://storage.googleapis.com/skincam/allmalam/SKT%2012%205X%20.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=ZpsAk6f%2BPdHT4DtqSQCfPZvowIUy72zCvB3Q8HpvYKbGEjAxLo8uH49k7Ouzj%2F%2Be3JttaEnkuKQsGctK85eI30z2H1ePhAjVAmlyto%2FAS5ZJoPIPbp5xHyGuSNUUjKlTGoyok5hfwYzXtPSglJTdYkGBehjRGfryDWR89am3j25d%2FxezcKEYloKulDgq1IREfi0AH8zLNLts7aV8TK46d4hHnLz3kc1DUlVlyPubLiEQCbA%2F9lnRP8UOfL5HhNqWzU5vMV%2B2zaT6eOEc2sdqA7CjAfDMfVSXjEW4K523tnjQBBWCggct8cAvw3%2Fl25PiMSrDtVga%2B7inncnCGq8aCA%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "SKT 12 5X ",
+            "url": "https://storage.googleapis.com/skincam/allmalam/SKT%2012%205X%20.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=TGTl8PpJ2Vb5i0I45M1pcJ%2Bx%2FzQuth56oxHGLbGV%2BsEO0SC1xjngwn2tSA3uQ277vq43MA%2B%2Fq20svOhvmc4pnZk%2BdAk9Mnf0HlAr5imtUwlRPbi6N4gt11KoGjcrH%2B9inN2bJ2NlIDkRUpTOgDjZECSFznsfyVAJADVrD90caG3w3jBa%2Bqbhyv8VJBjeTeZnRYTEEGqa7P6USg1J5Ws7pqrYtJCgGrHDEAZXy2A8RDxlB%2BIcw1y1dDzjMhjvYXTfXFmsIp0lynxNVVgwOp1zcWO45e79WWIaN%2BxZZNowWupPmoAZpDeW7uo9HXKWid%2BvNnXj8hs3O63JFEED1Cb9yw%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "Skin Goals",
+            "url": "https://storage.googleapis.com/skincam/allmalam/Skin%20Goals.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=CWKQ%2Fueewcp6dxEiM7nCMY0dN027KngIPr5jmghbnpljyBN0JDyzq%2FvCLx675Blghl3bBKVs2eeQSKNbEeWxiwERy2O%2BH%2Fb8XzYTTcfcH4TY9mvn3QPvVdm2r7O6syZg%2FpLoeB3yKtfoMfmReqaH9QlhRuYbDscrPkIqSk54ug3lpk2AiwWsY3Bd95XJ3KzLNnneHvcN2toUMhGhLGTIkEng1i6T0W17khS5gMYZpmo8yInrMvUYlMIE0%2FGzYFFrnHrotX%2B0ZTIW3UA1jfdo%2B3vMk3TPEaIJJTzWdhPVN79NG5ScvSl0yKWe5iqJGJdthO%2Fy6OTwxKeiKCvDWgfeZQ%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "Skin Goals",
+            "url": "https://storage.googleapis.com/skincam/allmalam/Skin%20Goals.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=OyBQ4veMZZmwZ6jUR5M%2BLOCgJ%2FT8IC7rSQmnzesbYYapD4GlgdCsJVxBc%2BN4Q95iQaALinFtnkX3YkHK5C471x6g6ZyCx2w9arG4GQ6%2FM5qjCfMhXVk8YH29Y6i0XaXjK4wX8iSOm1HQQMIFJU5S3PkJwXZFkqlqYf3XMgE6BwGAMr0dEQNfRoqUzNWT%2Byeo0ieVMNM85t6Ghes6Q1Tj9%2BzFLCxLTYuLiTeL5fXSN29sx%2Bp27idJot%2BJgnqoT0f7JlEoVZeu7LjwE8JTFL0XHh2TMfct5PPI7kWBi29xpa1eGm6v%2Frp2wLuGy84b23vclxiG4sbPcmUY4yJjl5Zi8Q%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "Somethinc GlowMaker Duo PackShot",
+            "url": "https://storage.googleapis.com/skincam/allmalam/Somethinc%20GlowMaker%20Duo%20PackShot.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=YYiZy2O%2BP7e%2B1OnrXBni%2FQukkl6XqSSJKm5aF9pzkQWrK4yLYdo2qIFuPkowalDaNbk8Pr1RmIzshj1%2BZnObTfmLOv9Om1pSLKz8nii1SLTJ9AL%2BGDgprf37NAk90bT8FRhxcm9p4KQgt5S4769XDooknqMxTRK4NnPDPYgzHw91qz%2BmJA8Hp6r2DikU7FQ877f%2BkqBTvWMVmKZ63yCLnRyVkdPTXD8OE6SXsNaCs20XMwm5N5nlvC3YeyaeCNgjSKUgfZf235PACP9gsPaoVbQWGy%2BZhRs4OhHu7BLWmtJT%2FQG16Lm%2BTAdLA6HkjXMgZ%2Bpp%2BZ5QYvP0hewqLiuP5Q%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "Somethinc GlowMaker Duo PackShot",
+            "url": "https://storage.googleapis.com/skincam/allmalam/Somethinc%20GlowMaker%20Duo%20PackShot.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=RI0Kmm%2B1MLTu%2FtTAzk2miWawhdSJ9fYLnMiY54TValqjwDFt1WJS6g%2FEICxLo4pU6s49AyO6wgLA0Rvr8S4X0ORYZLO87Q3pV8u4FRZoncnbpYhv1AWOLMjHGhUD9Qvt9g%2FSbJQmOVH1HCh61J79CtxHdZUs0lX%2Bmem%2BL1YPTtj025eoG9kwcjcywTPjJul9SmhbjYGTPMQ51pu%2FiqnxSJWucbLIq7W1uJ3HWVQDFwWI8LRU2WVQFFg4Bte55qXT7ZVmFnYAdLcF4E64n4MhWCJhr1x7m1YQ9%2FwQFE%2F72QhZ2dEI0cj2lJf7RFjBf%2FrALa7YSKfuriffUFey9CK%2Fiw%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "Toner Glowing",
+            "url": "https://storage.googleapis.com/skincam/allmalam/Toner%20Glowing.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=bUdGVGVR%2FiZ6UnIbZqeWLKFjyPFEgdEl8SND%2FKPZcA3WRyp6k5RH9Mon2R6Z5yus5hcJIY5fNJU%2B3lQ6V13heNq7EH%2BAKfXgll72LHxr5Xngg1fAUWycEKbw13Rw0GNpG48mgU%2BmeFA0e8R9wceIPrRrw4yX9axqBq%2FLEuSnWMpwT6zKY5zAwDccE402VZY3hmi66OiI6NqZSaqeJ59vUcxeNHf0v9X8Shf3q13g%2Fpt0W5ocuslGZsUX9o%2BEkb%2F4R3dP8%2FTlhAXetfniV8%2Ba4IeUcgn04Hk8o9Gciyzmw4wwlccuQEqnFur69vDbcrGy%2BahZJb7dxMTInKdfH2edng%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "Toner Glowing",
+            "url": "https://storage.googleapis.com/skincam/allmalam/Toner%20Glowing.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=dn76Vtk1n0FQK0tHjrBb4gTt%2B8CnM24vSjstqNUxnO7JORFNJBt9JpoQxRqefftZ8iiHwAqyMQUiCqQO6ryMI0IfXAunD0V%2BVbQ8tnZ3YCAh5dvcqyqTf%2FB0d%2FeDsY3sMmc5gKw0LxuaRzlIguBh0orqFODkGUv11BBiRxLzhOKyYoZxBq0zonKq47YpPR9eyAc2k%2BVdLwiTHZb8wihR%2BRtJeveIpu0i6hmDXUsNu5dlXqCoCuLLuw64SHZICDAertoI8FKqqLRRIMUfkbZF84S1LJ4XCe4nXqilzA%2BuVDEhZ98XJF%2BdyQSWhX%2F7nrO4Y6JbCL%2FgsrL0TZIiIS8Fyw%3D%3D"
+        }
+    ]
+}
 
 
 
