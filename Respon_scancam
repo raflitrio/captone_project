@@ -93,7 +93,7 @@ http://34.101.224.206:8080/upload
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 http://34.101.224.206:8080/produkimg/malam/pelembab
-    {
+   {
     "files": [
         {
             "type": "image",
@@ -107,13 +107,23 @@ http://34.101.224.206:8080/produkimg/malam/pelembab
         },
         {
             "type": "image",
-            "name": "PEPTINOL Granactive Retinoid Peptide Night Moisturizer Creme",
-            "url": "https://storage.googleapis.com/skincam/produkimg/malam/pelembab/PEPTINOL%20Granactive%20Retinoid%20Peptide%20Night%20Moisturizer%20Creme.jpg?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=VIpEDIsuPVhRVrdIGhqY2Cqnht2ygpFgqLazoX3tfaT5XQDTZ9htCepOXt2LjiGW%2FxjxI0hk6PKVZK3SPYAPAEw5JiPQ%2ByCnqUCnJ9SGEYZuO8orxn2lfytGVKL4zB5rAoB0pABxsuGfZ20tBWbL3rCC8h72T5MZpxgtvEC4x%2FQ0zzEnm%2FyaBtG414W1hatop58g1NEel5%2BTUb7vOr4aObikdCP%2B%2FCd5QaU5PBqVpRjQoEblPISMFFz6gqgrcr1mnRzAb1fY%2F%2F0m546wcppxHe2a0%2B5vQXJ8bFgeq7r7Vw1nP5FtY7aF4IbscD9xAdG2oGQPWaQtAL3BXffd5f3RcQ%3D%3D"
+            "name": "MSH Niacinamide Brightening Moistur",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/pelembab/MSH%20Niacinamide%20Brightening%20Moistur.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=gC3837Beqb3%2FkaEOY9Nst1WbBgs7bTpIr8CE6W5GpGH5ssrr4jnHKs7onmoOzJoUv%2ByiCX7sWtWa151AVsaOGd25%2BECUzGl%2BO4LXU4HOYH3mQSJ73uiLYWgZpyPNcWNsLXPGFVu%2BGOSGtvfSnpDxKR5mERYjS1UEZA0uwjnelFBbBSeyNzKRGtF6pXqDCqs%2BsuKjwCO6SEaQrYSCTdeGx9yj59quvDJX7IuluFQBJSmvHuynde250a4gjbiClgGPJ08hOyw%2Fp2JHzQZpN%2B8HFowudnH%2FZPSB94yMxyaSyLMHsbGV%2Ftm0C7IW5wkY8cInlgxOjPLwtlX2fPP8Jw0jHQ%3D%3D"
         },
         {
             "type": "text",
-            "name": "PEPTINOL Granactive Retinoid Peptide Night Moisturizer Creme",
-            "url": "https://storage.googleapis.com/skincam/produkimg/malam/pelembab/PEPTINOL%20Granactive%20Retinoid%20Peptide%20Night%20Moisturizer%20Creme.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=lbTjdjdsII7kgnZVX3Upv9eX8LroRqNHg12A%2FSV0lJ3uoSyMow6TlTnpBFgnlFKw7aDpsVT92I5iR%2F%2FF4OzYZvvve1UrAG6lGGbUXFrdUS4AAKVEk92skG9OmK9LakypmVFrNVikj7KEH2Ajiw5bBpkSUo7M7nS5d5WIiUpVg3RzfJQlSf2LWoTgV%2FnI%2FVPN0izbOh1NeTsIyiuxQaqPezrzMJyOp4l5xtS8gI%2BqosKqusFL9SczpVLb6%2FK9ctiHfI9c0wzrg9OtGH2VhUzlL4VTcf7M6xm3hFtnrPn3Cnasj2jXrQqdSx%2FiNS00B%2BPumh3PuTOAbi4U751a9qFYfQ%3D%3D"
+            "name": "MSH Niacinamide Brightening Moistur",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/pelembab/MSH%20Niacinamide%20Brightening%20Moistur.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=OMhlF42EVDDNW9pFUZmtemTFN9MgzHA6TRXfP%2BDvhxj19yxR4WNFOdG3ux%2BKFwrsvt4jdPIRSG8LFg9iIZO7n1Lh%2BnNcuNmfU36XSkO6vBWjQJqhYBKKsY6oRO0Zqw89yZhHo4d0An0AjomdUny5sz%2FmPpQdspmYRbXYRTg2eqHupdCRHNaXqc2F3nj27sAe03gh1m9WvxyyKeEQ5kRDzOOvbegKLW%2FzHfE6CCq%2FdXUmM4t9uel8Uy%2Fac6LRmY%2BDj6DsfkGV8PpoqUP10hzrnQiulmG%2BlwXbIz3t31NHuMJdZaNAA%2F5hbULO8n0qRzq8U%2BSAJv9JHNr0NCfKxL8drQ%3D%3D"
+        },
+        {
+            "type": "image",
+            "name": "SKINTIFIC Symwhite 377",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/pelembab/SKINTIFIC%20Symwhite%20377.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=l6ZecALHZgFbfrIvvgXOzk5FjI3XVsBrdGn%2BLoNgirg0NXAqv5S1iNBpOHKFyWVCTUhpqvib%2FcTlXKMYMkn7Kdh6V3TCszGGfzdJSaPQ6Quyu8jkz%2BKigYFKz8SUzIsbOkPQIqHRB6cN34LtPieHnuFgpp3pR%2FjfW5DHPCPgRcWbbJXHNYT40T2s%2FulfYfFwteHa94GsQ9m5loArcM8vRBzTCngh9g%2BaH9JRd2gruw%2B3Ajq5eCjE7hy1Lgf3SMGfWjb%2BfrSmeNepKEVr9RGiM1u74%2FZeo1dsbWa1PKCt2p5CY9q0bnjOWnPJaozwrMJqgyMlB1tzNXl7g4Id%2Bz3TXQ%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "SKINTIFIC Symwhite 377",
+            "url": "https://storage.googleapis.com/skincam/produkimg/malam/pelembab/SKINTIFIC%20Symwhite%20377.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=Ln0qWWwSQT9bE4IFGuTtmNehsPudsXt%2B7lLituPx7W8Ve%2FfnUwuGhGN6s3EEqatZq%2FpcRDBDkyUKrMYErHnqux4sNn%2F4ZzceKVRViXjkG9BzSOKOH7ZwcH0OqXXb9hLzBMDZJj2aJBztAIseTyOQP6EXqxFK04neFo982HXvRZRAdlWNxterUeaHj%2BEjzhlm%2BzwX4gxA1Jmv83z2ivOs%2Bw265IXvpYKir%2BPm1tcGKVyUvci2%2BZWjl9mrZfth3OdvwlLXYXBYC9fe8RLSy0Z5acXn%2BTaJHDKrePil2Y3qhRVyocV%2FyjsEXtQ%2BeV9Oq4z8mmesCFfrm5bFa409d0fwNA%3D%3D"
         }
     ]
 }
