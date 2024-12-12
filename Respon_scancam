@@ -750,6 +750,16 @@ http://localhost:8080/allmalam
         },
         {
             "type": "image",
+            "name": "MSH Niacinamide Brightening Moistur",
+            "url": "https://storage.googleapis.com/skincam/allmalam/MSH%20Niacinamide%20Brightening%20Moistur.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=G%2FAqhB%2FF%2FiWjdimXJFJS3nNfGRiFVRxbtQwVLCx5Z7AF3CEcZKTIVmFPL6f35eekrb0TW%2BSc3gf%2BeWPXYIypHC1QTi934Z0nm3aOPNJuDdFh8USHz0YOqKzg4o%2F3DA0mn8VcnxaJz7YYVvs1UDg7dtOweYQhq%2Bt86%2B2od9c2m5Kt1UqYil9mbKC38fa1BxGaw%2Ft4%2Bqf58k3KskXdY1mTJizXEBqVqlo9Rgdd4K6clA%2Bx5UBnNVf91%2Bl8sfe7Y4gNYNWMOGU5VLGNUgiLfSEkHfdGSB%2BctZHCWunw%2FIckioGZM%2BXznOlvYBEgWQwf%2F23OaxJhAkeVVVphZbed0Wj0Lw%3D%3D"
+        },
+        {
+            "type": "text",
+            "name": "MSH Niacinamide Brightening Moistur",
+            "url": "https://storage.googleapis.com/skincam/allmalam/MSH%20Niacinamide%20Brightening%20Moistur.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=NsHx4TDyIEKoSEUHBrkIGumaQJfFZWAK%2BusYBQqLj4KanjLqzTa%2BgRDX8cgugWjCsJZZmj0kDmVuKvkMa2c39C5XP43Jto87Y6XRttGcyNLO11LRpVAQVKDkW538Rv897t8YSNc0NLYje%2BA0D7Fqm28u%2BVJrb%2FF9cnp6ART%2BUhRGVD%2FjeRyVwyNtUcTBYNXal59ML7BqlisP7Fljq6S5jk20CcYt%2FqF%2BU%2BKWpeU5T0IqSuiVRKpHacdhLeTtcaEsOnk0vPsXZg8bzCzphyH4WDzc2ud5TKwIQk7NE9wWpyiN5uAcaKbNG3HCz%2BjmGosOsXSbkrc1pMEzb3BIRKvXCw%3D%3D"
+        },
+        {
+            "type": "image",
             "name": "Mugwortella Charcoal",
             "url": "https://storage.googleapis.com/skincam/allmalam/Mugwortella%20Charcoal.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=L1dve67xNWFWyJ8eKxIYOLrEq0S322RC76siWerZOQ2gFtZrTg450jFZWdLAxP2XxqmaYGdQR4aJeo%2BStAdTlrIUpBDckw51m9u29QA%2BMXSz%2FwKdqWDYIagWqmErq9mdufBtUnETlioGlQoSZCuNX0HqV4nLLqU%2FVyCSEE%2FY6ClCPk2kacs7HktGrqRdiQy8Lte3P82pUkjFhfjyB52mBLjYPDynVszPMQP5bficO0JVBOOL72fxKcNiAigJODtkfBJuJglTdfuZZ%2FOPx6qhWbVNR6VilfzjG99zL%2FIvjnE7vhc4nPTYsyqkb7xGADcpDF4l3pwSr0ifaAImLudGvQ%3D%3D"
         },
@@ -760,13 +770,13 @@ http://localhost:8080/allmalam
         },
         {
             "type": "image",
-            "name": "PEPTINOL Granactive Retinoid Peptide Night Moisturizer Creme",
-            "url": "https://storage.googleapis.com/skincam/allmalam/PEPTINOL%20Granactive%20Retinoid%20Peptide%20Night%20Moisturizer%20Creme.jpg?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=DEARhYhxrKVZNsEAVV0itzSeYJpdCz3yPOhED8OIewAYfYXffEn1FkaKNWA9NrO0RhfQg9Df5wk0K%2FqSkULpyTnmF3osl9ES6rK3ZoIC5vJHfzWJ8SRnxlWIdO4BAi156Tbi4R43TLJhs%2FuOkujeInVAD25ohl08q9Ygy7qjxyGDdmxnMm3pTD1eZRAfnuAOOkC8oElGqV3ZlHbAw2LVHo39had3N2Mf%2FAS8NwhW3wd%2Fz0YVCvR7vFib4uA6u3Nz6h%2F0EqnkEL13fckDQbLxNtqcEPk4hFwDDOM9SOeAUxl0p74Wh9c%2B954qjO%2BNqW%2Bsof0MsWtoQP%2F7y57bHWm2dA%3D%3D"
+            "name": "SKINTIFIC Symwhite 377",
+            "url": "https://storage.googleapis.com/skincam/allmalam/SKINTIFIC%20Symwhite%20377.png?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=CB5xIwS2mk7Vly6jLn1JGffEQeguwbzpoqKPAZHTbS8G0Ij5O2eaF98YSxt5Y5DoF5JUMddPRrWb4KUCPLuaq2n79m20DmJsws27mjpsvRmn6ex%2FyXAiS%2BQOR1%2BHmXWwAghARjDNwTJY7QbTepzaXsn0XlE7RDTA1YPAL7hOkzfFCevZpWV1tVvNNq5iljxVQOzuJA5i%2Bkcx1M5SPIZjRaoyoQolO%2BeL0MtqebrxVx100P4Rg4HYxnYqymBRSLRqLEnnW7Dt5yBsSTvmzbpCjP%2FNj9oA0ltXo3NFtzoMTL44YrJO1Xnd5237Hg6e5R2Dmg3M%2F6Mup6fE9tbK4iTE9g%3D%3D"
         },
         {
             "type": "text",
-            "name": "PEPTINOL Granactive Retinoid Peptide Night Moisturizer Creme",
-            "url": "https://storage.googleapis.com/skincam/allmalam/PEPTINOL%20Granactive%20Retinoid%20Peptide%20Night%20Moisturizer%20Creme.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=Zfo3FS%2BDpsjGQSj3a%2FxVn1mVAkkTi0udhqLH4NkUPnsHP%2FKzHEyvnwQ8qj5FT%2FnIx3aFNiCDC2T7QdbBaZZGA3bTzag3SWbH87UJGmz1qGHZlvZckKkf3MNeYUAqV8pR36rOleMv%2F0LlsrfuqR1AFK3%2FvvxQwLHG8NyPdYfMSTM%2Fr3CVpOrRdJm5X8KCEHy6eUyjOJhdF1hC7wKj4QGPBDeZt4u4%2BV%2F8ffS3In6dgeTGx4scX3i6ZAYkVspHcQzHFajz7FKyHDpKBOe3QegJ0ODVCooVLKzxssT7PMyvDROq7xwDUcqqgzH8nLItTHW3AT3nMA%2BzqJV5gEskd0cTzQ%3D%3D"
+            "name": "SKINTIFIC Symwhite 377",
+            "url": "https://storage.googleapis.com/skincam/allmalam/SKINTIFIC%20Symwhite%20377.txt?GoogleAccessId=backend%40directed-reef-444300-v7.iam.gserviceaccount.com&Expires=16447017600&Signature=X%2FhL1lyxVldKfAdV0RaaOTtQMKvSO81neoP9%2FtcHUECguANrZ6vA96pKqEymAIdb49O3k%2B5sRV0eH3tdXQYpdw1thJynt66ERy3apkAlzRqK4NFmfi8C30xws%2Fy30ohLcTaMpDe7NkkZWPz8VtL7Ja8vacy93OFEjHknAxHi%2BgxcUSK2UOAGcvpk%2BOhiJWVh3I%2BbrA1xSaiiSywKjhuxXWMgy3p9%2BdKf218p0ctUsnLD67bqw2EXmos7m2Zya4Rt2I%2FI%2FxU8rtvPwNqXTnPW9MXkeCSThREmYMtKpHUjdLcl8QCpCcixMsl6HDX8JR6cBtcoA6pyXl44CrtoalbCeg%3D%3D"
         },
         {
             "type": "image",
